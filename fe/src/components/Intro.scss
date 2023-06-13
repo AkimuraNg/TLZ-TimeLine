@@ -1,0 +1,25 @@
+.intro {
+    padding-top: 360px;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 12px;
+
+    img {
+        width: 100%;
+    }
+
+    button {
+        width: 200px;
+        align-self: center;
+        background: red !important;
+        border: 1px solid red !important;
+        margin: 16px 4px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1400px){
+    .intro{
+        padding-top: 100px;
+    }
+}
