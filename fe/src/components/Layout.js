@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './Layout.scss'
+import './SCSS/Layout.scss'
 import { Data1 } from './Data_files/Data1'
 import { GoArrowRight, GoArrowLeft } from 'react-icons/go'
 

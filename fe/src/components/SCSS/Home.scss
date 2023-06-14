@@ -1,0 +1,25 @@
+.Homepage {
+    font-family: 'Regular';
+    font-size: 40px;
+    padding-top: 100px;
+    min-height: 100vh;
+    text-align: center;
+    // background-image: url('../../images/bg.png');
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: contain;
+
+    p {
+        font-size: 20px;
+    }
+
+    .bg-image {
+        img {
+            width: 160px;
+        }
+    }
+
+    .title {
+        font-size: 36px;
+    }
+}

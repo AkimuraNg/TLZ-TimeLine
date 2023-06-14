@@ -5,6 +5,7 @@ import Intro from './components/Intro';
 // import Layout from './components/Layout';
 import { Route, Routes } from 'react-router-dom'
 import './fonts/Triforce.ttf'
+import Characters from './components/Characters';
 
 
 
@@ -18,6 +19,7 @@ function App() {
           <Routes>
             <Route path='/' element={<Intro />}></Route>
             <Route path='/home' element={<Home />}></Route>
+            <Route path='/characters' element={<Characters/>}></Route>
           </Routes>
         </main>
       </div>

@@ -1,0 +1,49 @@
+.CharactersPage {
+    font-family: 'Regular';
+    padding-top: 100px;
+    min-height: 100vh;
+    text-align: center;
+
+    h3 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .Link {
+        padding-top: 60px;
+        margin: 10px 10px;
+
+        .row {
+            flex-direction: row-reverse;
+        }
+
+        img {
+            width: 280px;
+        }
+    }
+
+    .Zelda {
+        padding-top: 60px;
+        margin: 10px 10px;
+
+        img {
+            width: 280px;
+        }
+    }
+
+    .Ganon {
+        padding-top: 60px;
+        margin: 10px 10px;
+
+        .row {
+            flex-direction: row-reverse;
+        }
+
+        img {
+            width: 280px;
+        }
+    }
+}

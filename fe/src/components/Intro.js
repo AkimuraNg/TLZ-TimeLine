@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import PreLoad from '../images/PreLoad';
-import './Intro.scss'
+import './SCSS/Intro.scss'
 import { useNavigate } from 'react-router-dom'
 
 const Intro = () => {
