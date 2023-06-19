@@ -20,7 +20,7 @@ const History = () => {
                         <img className='card-img-top' src={'https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2f/TLoZ_Series_Crest_of_Din_Symbol.png'} alt='Din' />
                         <div className='card-body'>
                             <h3 className='card-title'>DIN</h3>
-                            <p>Goddes of Power.
+                            <p>Goddess of Power.
                                 <br /> Din created the bare earth and shaped the featureless land, forming its topography.
                             </p>
                         </div>
@@ -29,7 +29,7 @@ const History = () => {
                         <img className='card-img-top' src={'https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/08/TLoZ_Series_Crest_of_Nayru_Symbol.png'} alt='Din' />
                         <div className='card-body'>
                             <h3 className='card-title'>NAYRU</h3>
-                            <p>Goddes of Wisdom.
+                            <p>Goddess of Wisdom.
                                 <br /> Nayru is the source of the laws that govern the realm in which Hyrule exists.
                             </p>
                         </div>
@@ -38,7 +38,7 @@ const History = () => {
                         <img className='card-img-top' src={'https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bc/TLoZ_Series_Crest_of_Farore_Symbol.png'} alt='Din' />
                         <div className='card-body'>
                             <h3 className='card-title'>FARORE</h3>
-                            <p>Goddes of Courage.
+                            <p>Goddess of Courage.
                                 <br /> Farore is the source of all life that exists within the Hyrulean realm.
                             </p>
                         </div>

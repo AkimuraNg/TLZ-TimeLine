@@ -19,9 +19,20 @@
         }
     }
 
-    p{
+    p {
         padding-top: 44px;
         font-size: 32px;
         font-family: 'Regular';
     }
+}
+
+@media (min-width: 1400px) {
+    .preLoad {
+        padding-top: 300px;
+
+        img {
+            width: 400px;
+        }
+    }
+
 }

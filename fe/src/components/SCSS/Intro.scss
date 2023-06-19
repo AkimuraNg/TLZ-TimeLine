@@ -11,15 +11,21 @@
     button {
         width: 200px;
         align-self: center;
-        background: red !important;
+        background: black !important;
         border: 1px solid red !important;
         margin: 16px 4px;
         font-size: 20px;
+        font-family: 'Regular';
     }
 }
 
 @media (min-width: 1400px){
     .intro{
-        padding-top: 100px;
+        padding-top: 160px;
+        align-items: center;
+
+        img{
+            width: 80%;
+        }
     }
 }

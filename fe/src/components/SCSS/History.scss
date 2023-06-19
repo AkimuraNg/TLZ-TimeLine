@@ -55,7 +55,29 @@ $fontfamily: 'Regular';
         }
     }
 
-    .Kingdom{
+    .Kingdom {
         padding-top: 40px
+    }
+}
+
+@media (min-width: 1440px) {
+    .History {
+        .beginning {
+            .card-items {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                margin: 10px 0px;
+
+                .card {
+                    width: 100%;
+                    margin: 10px 4px;
+
+                    img {
+                        width: 200px;
+                    }
+                }
+            }
+        }
     }
 }
