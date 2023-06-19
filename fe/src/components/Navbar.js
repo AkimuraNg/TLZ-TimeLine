@@ -20,6 +20,9 @@ const Navbar = () => {
                         <li className='nav-item'>
                             <Link className='nav-link' aria-current='page' to='/home'>HOME</Link>
                         </li>
+                        <li className='nav-item'>
+                            <Link className='nav-link' to='/history'>HISTORY</Link>
+                        </li>
                         <li className='nav-item dropdown'>
                             <Link className='nav-link dropdown-toggle' role='button' data-bs-toggle='dropdown' aria-expanded='false'>CHARACTERS</Link>
                             <ul className='dropdown-menu'>
@@ -27,7 +30,7 @@ const Navbar = () => {
                                     <Link className='dropdown-item' to='/characters'>main characters</Link>
                                 </li>
                                 <li>
-                                    <Link className='dropdown-item' to='npcs'>NPC</Link>
+                                    <Link className='dropdown-item' to='/npcs'>NPC</Link>
                                 </li>
                             </ul>
                         </li>

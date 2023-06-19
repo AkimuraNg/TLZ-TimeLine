@@ -1,0 +1,61 @@
+$fontfamily: 'Regular';
+
+.History {
+    padding-top: 100px;
+
+    h1 {
+        font-family: $fontfamily;
+        border-bottom: 1px solid white;
+    }
+
+    h2 {
+        font-family: $fontfamily;
+    }
+
+    .beginning {
+        padding-top: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-sizing: border-box;
+        border-bottom: 1px solid white;
+
+        img {
+            width: 300px;
+            margin: 10px 10px;
+        }
+
+        .card {
+            color: white;
+            text-align: center;
+            padding-top: 40px;
+            align-items: center;
+            background: black;
+
+            img {
+                width: 160px;
+            }
+
+            h3 {
+                font-family: $fontfamily;
+                font-size: 28px;
+            }
+        }
+    }
+
+    .Triforce {
+        padding-top: 40px;
+        box-sizing: border-box;
+        border-bottom: 1px solid white;
+
+        img {
+            width: 200px;
+            // padding-top: 20px;
+            margin: 10px 10px;
+        }
+    }
+
+    .Kingdom{
+        padding-top: 40px
+    }
+}

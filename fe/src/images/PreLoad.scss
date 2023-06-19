@@ -1,10 +1,27 @@
-.preLoad{
-   padding-top: 280px;
+.preLoad {
+    padding-top: 280px;
 
-    img{
-        width: 100%
+    img {
+        width: 240px;
+        animation-name: spinning;
+        animation-duration: 12s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
     }
-    // p{
-    //     font-size: 32px;
-    // }
+
+    @keyframes spinning {
+        from {
+            transform: rotate(360deg);
+        }
+
+        to {
+            transform: rotate(0deg);
+        }
+    }
+
+    p{
+        padding-top: 44px;
+        font-size: 32px;
+        font-family: 'Regular';
+    }
 }
