@@ -1,14 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './SCSS/Navbar.scss'
 import { Link } from 'react-router-dom'
 import Logo from '../images/logo.png'
 
 const Navbar = () => {
     return (
-        <nav className='navbar navbar-expand-lg fixed-top bg-body-tertiary' data-bs-theme='dark'>
-            <div className='container'>
+        <nav className='navbar navbar-expand-lg sticky-top bg-body-tertiary' data-bs-theme='dark'>
+            <div className='container-fluid'>
                 <Link className='navbar-brand' to='/home'>
-                    <img src={Logo} alt='Logo'/>
+                    <img src={Logo} alt='Logo' />
                 </Link>
                 <button className='navbar-toggler' type='button' data-bs-toggle='collapse'
                     data-bs-target='#navbarSupportedContent' aria-controls='navbarSupportedContent'

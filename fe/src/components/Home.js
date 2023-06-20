@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className='Homepage'>
       <Navbar />
-      <h1>"Yahaha! You found me!"</h1>
+      <h1>"IT'S DANGEROUS TO GO ALONE! TAKE THIS."</h1>
       <section className='bg-image'>
         <img src={bg} alt='bg'/>
       </section>
