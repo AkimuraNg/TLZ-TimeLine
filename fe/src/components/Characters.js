@@ -10,7 +10,7 @@ const Characters = () => {
             <section className='Link'>
                 <div className='row'>
                     <div className='card'>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 col-md-6 col-xl-6'>
                             <div className='card-body'>
                                 <h3 className='card-title'>LINK</h3>
                                 <p className='card-text'>The main protagonist of the series.
@@ -21,7 +21,7 @@ const Characters = () => {
                                 </p>
                             </div>
                         </div>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 col-md-6 col-xl-5'>
                             <div className='card-img'>
                                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/1/15/TotK_Link_Artwork.png'} alt='Link' />
                                 <span>Tears of the Kingdom Link's artwork.</span>
@@ -33,7 +33,7 @@ const Characters = () => {
             <section className='Zelda'>
                 <div className='row'>
                     <div className='card'>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 col-md-6 col-xl-6'>
                             <div className='card-body'>
                                 <h3 className='card-title'>PRINCESS ZELDA</h3>
                                 <p className='card-text'>The eponymous character of the series.
@@ -43,7 +43,7 @@ const Characters = () => {
                                 </p>
                             </div>
                         </div>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 col-md-6 col-xl-5'>
                             <div className='card-img'>
                                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/a/a1/TotK_Zelda_Artwork.png'} alt='Zelda' />
                                 <span>Tears of the Kingdom Zelda's artwork.</span>
@@ -55,7 +55,7 @@ const Characters = () => {
             <section className='Ganon'>
                 <div className='row'>
                     <div className='card'>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 col-md-6 col-xl-6'>
                             <div className='card-body'>
                                 <h3 className='card-title'>GANONDORF DRAGMIRE</h3>
                                 <p className='card-text'>The main antagonist of the series.
@@ -65,7 +65,7 @@ const Characters = () => {
                                 </p>
                             </div>
                         </div>
-                        <div className='col-sm-6'>
+                        <div className='col-sm-6 col-md-6 col-xl-5'>
                             <div className='card-img'>
                                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/8/87/TotK_Demon_King_Ganondorf_Artwork.png'} alt='Ganon' />
                                 <span>Tears of the Kingdom Ganondorf's artwork.</span>
