@@ -5,10 +5,9 @@ import Characters from './components/Characters';
 import Game from './components/Game';
 import NPC from './components/NPC';
 import History from './components/History'
-// import { Data1 } from './components/Data_files/Data1';
-// import Layout from './components/Layout';
 import { Route, Routes } from 'react-router-dom'
 import './fonts/Triforce.ttf'
+import Footer from './components/Footer';
 
 
 
@@ -18,7 +17,6 @@ function App() {
 
       <div className='container-fluid'>
         <main className='wrapper'>
-          {/* <Layout slides={Data1} /> */}
           <Routes>
             <Route path='/' element={<Intro />}></Route>
             <Route path='/home' element={<Home />}></Route>
@@ -28,6 +26,7 @@ function App() {
             <Route path='/games' element={<Game/>}></Route>
           </Routes>
         </main>
+        <Footer/>
       </div>
     </div>
   );

@@ -2,7 +2,6 @@ import React from 'react'
 import './SCSS/History.scss'
 import Navbar from './Navbar'
 import { GiTriforce } from 'react-icons/gi'
-import Footer from './Footer'
 
 const History = () => {
     return (
@@ -69,7 +68,6 @@ const History = () => {
                     The story of the Sacred Realm and the Triforce would shape Hyrule's future in the centuries that followed its establishment, becoming the basis of its providence. It is also home to a multitude of different races and tribes, each inhabiting a different part of the country and sometimes protecting its legendary relics and guarding its temples.
                 </p>
             </section>
-            <Footer />
         </div>
     )
 }

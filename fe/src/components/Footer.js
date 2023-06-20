@@ -1,8 +1,10 @@
 import React from 'react'
 import './SCSS/Footer.scss'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 
 const Footer = () => {
+    const { pathname } = useLocation();
+    if (pathname === '/') return null;
     return (
         <div>
             <footer className='footer'>

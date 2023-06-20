@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name":"King Rhoam",
-        "desc":"King Rhoam was once the king of Hyrule Kingdom and the father of Zelda.",
+        "desc":"The Last King of Hyrule",
         "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/HWAoC_King_Rhoam_Artwork.png"
     },
     {
@@ -14,61 +14,55 @@
     {
         "id": 3,
         "name": "Impa",
-        "desc":"Impa presides as the elder of Kakariko Village.",
+        "desc":"Lady Impa. The Sheikah Leader",
         "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/ca/TotK_Impa_Artwork.png"
     },
     {
         "id": 4,
         "name":"Paya",
-        "desc":"Paya is a young Sheikah woman who lives in Kakariko Village.",
+        "desc":"Lady Paya. Granddaughter of Lady Impa.",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/1/19/TotK_Paya_Artwork.png"
     },
     {
         "id": 5,
         "name":"Robbie",
-        "desc":"Robbie is a Sheikah who researched Guardians at the Royal Ancient Lab before the Great Calamity.",
+        "desc":"Royal Ancient Lab Director.",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/b/bd/TotK_Robbie_Artwork.png"
     },
     {
         "id": 6,
-        "name":"King Dorephan",
-        "desc":"King Dorephan is the reigning monarch of Zora's Domain",
-        "img":"https://cdn.wikimg.net/en/zeldawiki/images/6/69/TotK_Dorephan_Artwork.png"
+        "name":"The Great Deku Tree",
+        "desc":"Great Spirit of Korok Forest.",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/98/TotK_Great_Deku_Tree_Artwork.png"
     },
     {
         "id": 7,
         "name":"Mipha",
-        "desc":"Mipha was the Princess of the Zora, one of the Champions. She has a gift for healing, known as Mipha's Grace.",
+        "desc":"Princess Mipha. The Zora Champion.",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/f/f0/BotW_Mipha_Artwork.png"
     },
     {
         "id": 8,
         "name":"Daruk",
-        "desc":"Daruk was the Goron Champion, He possessed the ability known as Daruk's Protection.",
+        "desc":"Lord Daruk. The Goron Champion,",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/f/f3/BotW_Daruk_Artwork.png"
     },
     {
         "id": 9,
         "name":"Revali",
-        "desc":"Revali was the Champion of the Rito. Revali had the ability to create an Updraft that allows him to soar into the air, later named Revali's Gale after him.",
+        "desc":"Master Revali. The Rito Champion,",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/3/31/BotW_Revali_Artwork.png"
     },
     {
         "id": 10,
         "name":"Urbosa",
-        "desc":"Urbosa was the Gerudo Champion. She was also the chief of the Gerudo in life. She was capable of manipulating Lightning, which is a power known as Urbosa's Fury.",
+        "desc":"Lady Urbosa. The Gerudo Champion.",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/c/cf/BotW_Urbosa_Artwork.png"
     },
     {
         "id": 11,
-        "name":"Kass",
-        "desc":"Kass is a minstrel who travels throughout Hyrule Kingdom in search of the 'Ancient Songs'. He has left his family and his hometown of Rito Village to fulfill the final wish of his teacher, the Court Poet",
-        "img":"https://cdn.wikimg.net/en/zeldawiki/images/a/a2/Nintendo_Switch_Kass_Icon.png"
-    },
-    {
-        "id": 12,
         "name":"Master Kohga",
-        "desc":"Master Kohga is the leader of the Yiga Clan, an opposing Clan to the Sheikah who hunt Link on a ceaseless mission.",
+        "desc":"Leader of the Yiga clan.",
         "img":"https://cdn.wikimg.net/en/zeldawiki/images/c/c8/TotK_Master_Kohga_Artwork.png"
     }
 ]
