@@ -2,7 +2,6 @@ $fontfamily: 'Regular';
 
 .CharactersPage {
     padding-top: 100px;
-    min-height: 100vh;
     text-align: center;
 
     h1 {
@@ -12,12 +11,13 @@ $fontfamily: 'Regular';
 
     h3 {
         font-family: $fontfamily;
-        font-size: 32px;
+        font-size: 28px;
     }
 
     p {
-        font-size: 14px;
+        font-size: 15px;
         margin: 10px 4px;
+        text-align: justify;
     }
 
 

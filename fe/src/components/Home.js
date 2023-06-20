@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import './SCSS/Home.scss'
 import bg from '../images/bg.png'
+import Footer from './Footer'
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
           <br /> <span className='title'>The Legend of Zelda</span>
         </p>
       </section>
+      <Footer/>
     </div>
   )
 }

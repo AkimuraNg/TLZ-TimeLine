@@ -1,0 +1,44 @@
+.footer {
+    padding-top: 90px;
+    padding-bottom: 10px;
+    margin: 10px 0px;
+    text-align: center;
+    font-family: 'Regular';
+
+    h5 {
+        font-size: 20px;
+        box-sizing: border-box;
+        border-top: 1px solid white;
+        margin: 10px 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .links {
+        display: flex;
+        flex-direction: row;
+        font-size: 16px;
+        align-items: center;
+        justify-content: space-evenly;
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+    }
+}
+
+@media (min-width: 1440px) {
+    .footer {
+        padding-top: 190px;
+
+        h5 {
+            font-size: 24px;
+        }
+
+        .links {
+            font-size: 20px;
+            justify-content: space-evenly;
+        }
+    }
+}

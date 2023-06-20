@@ -10,6 +10,7 @@ $fontfamily: 'Regular';
 
     h2 {
         font-family: $fontfamily;
+        padding-bottom: 10px;
     }
 
     .beginning {
@@ -19,6 +20,10 @@ $fontfamily: 'Regular';
         align-items: center;
         box-sizing: border-box;
         border-bottom: 1px solid white;
+
+        p {
+            text-align: justify;
+        }
 
         img {
             width: 300px;
@@ -40,6 +45,10 @@ $fontfamily: 'Regular';
                 font-family: $fontfamily;
                 font-size: 28px;
             }
+
+            p {
+                text-align: center;
+            }
         }
     }
 
@@ -47,6 +56,10 @@ $fontfamily: 'Regular';
         padding-top: 40px;
         box-sizing: border-box;
         border-bottom: 1px solid white;
+
+        p {
+            text-align: justify;
+        }
 
         img {
             width: 200px;
@@ -56,7 +69,15 @@ $fontfamily: 'Regular';
     }
 
     .Kingdom {
-        padding-top: 40px
+        padding-top: 40px;
+
+        p {
+            text-align: justify;
+        }
+        img{
+            width: 280px;
+            margin: 10px 10px;
+        }
     }
 }
 

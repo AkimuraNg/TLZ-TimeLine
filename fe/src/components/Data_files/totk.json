@@ -1,0 +1,14 @@
+[
+    {
+        "id": 7,
+        "name":"Sidon",
+        "desc":"Sidon is the prince of the Zora and the heir to Zora's Domain. He is a descendant of one of the Six Sages, the Sage of Water.",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6c/Sidon_Sage.png"
+    },
+    {
+        "id": 9,
+        "name":"Teba",
+        "desc":"",
+        "img":"https://cdn.wikimg.net/en/zeldawiki/images/f/f7/TotK_Teba_Artwork.png"
+    }
+]
