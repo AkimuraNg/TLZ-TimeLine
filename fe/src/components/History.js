@@ -49,12 +49,10 @@ const History = () => {
             <section className='Triforce'>
                 <h2><GiTriforce /> THE TRIFORCE <GiTriforce /></h2>
                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/d/d2/ALttP_Triforce_Artwork.png'} alt='Triforce 1' />
-                <p>The Triforce, also known as the Golden Power, the Power of the Chosen One, the Absolute Power, and the Ultimate Power, is a sacred golden relic left behind by the Golden Goddesses, Din, Nayru, and Farore, once they finished transforming the Emptiness into the land which came to be known as Hyrule.
-                    <br /> The Goddess Hylia was tasked with the protection of this world and the Triforce. After Hylia ceases to exist as a goddess, the Triforce is protected by the Royal Family of Hyrule, the sages, and the Sheikah.
+                <p>The Triforce, also known as the Golden Power, the Power of the Chosen One, the Absolute Power, and the Ultimate Power, is a sacred golden relic left behind by the Golden Goddesses, Din, Nayru, and Farore, once they finished transforming the Emptiness into the land which came to be known as Hyrule. The Goddess Hylia was tasked with the protection of this world and the Triforce. After Hylia ceases to exist as a goddess, the Triforce is protected by the Royal Family of Hyrule, the sages, and the Sheikah.
                 </p>
                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/9/9c/TLoZ_Series_Triforce_Artwork.png'} alt='Triforce 2' />
-                <p> The Triforce consists of three separate triangles: the Triforce of Power is always depicted as the top piece, with the Triforce of Courage represented by the right piece, and the Triforce of Wisdom represented by the left piece.
-                    <br /> Although the Triforce was created by gods, it can never be used by such, possibly the goddesses' way of giving hope to all the mortal beings in Hyrule.
+                <p> The Triforce consists of three separate triangles: the Triforce of Power is always depicted as the top piece, with the Triforce of Courage represented by the right piece, and the Triforce of Wisdom represented by the left piece. Although the Triforce was created by gods, it can never be used by such, possibly the goddesses' way of giving hope to all the mortal beings in Hyrule.
                 </p>
             </section>
             <section className='Kingdom'>
@@ -65,8 +63,10 @@ const History = () => {
                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/7/7e/BotW_Hyrule_Sunset_Artwork.jpg'} alt='Hyrule Kingdom BoTW' />
                 <p>
                     The kingdom has its own long and unique history with many wars and conflicts over the Triforce, deities, legendary relics, historical heroes and villains. It is connected to a variety of different realms or universes via magical artifacts and portals, including but not limited to the Sacred Realm, the Twilight Realm, its own direct parallel world Lorule and, to a lesser extent, Termina.
-                    <img src={'https://cdn.wikimg.net/en/zeldawiki/images/4/4b/OoT3D_Hyrule_Field_Artwork_2.png'} alt='Hyrule Kingdom OoT' />
-                    <br />The story of the Sacred Realm and the Triforce would shape Hyrule's future in the centuries that followed its establishment, becoming the basis of its providence. It is also home to a multitude of different races and tribes, each inhabiting a different part of the country and sometimes protecting its legendary relics and guarding its temples.
+                </p>
+                <img src={'https://cdn.wikimg.net/en/zeldawiki/images/4/4b/OoT3D_Hyrule_Field_Artwork_2.png'} alt='Hyrule Kingdom OoT' />
+                <p>
+                    The story of the Sacred Realm and the Triforce would shape Hyrule's future in the centuries that followed its establishment, becoming the basis of its providence. It is also home to a multitude of different races and tribes, each inhabiting a different part of the country and sometimes protecting its legendary relics and guarding its temples.
                 </p>
             </section>
             <Footer />

@@ -74,7 +74,8 @@ $fontfamily: 'Regular';
         p {
             text-align: justify;
         }
-        img{
+
+        img {
             width: 280px;
             margin: 10px 10px;
         }
@@ -83,6 +84,10 @@ $fontfamily: 'Regular';
 
 @media (min-width: 1440px) {
     .History {
+        p {
+            font-size: 20px;
+        }
+
         .beginning {
             .card-items {
                 display: flex;
@@ -98,6 +103,24 @@ $fontfamily: 'Regular';
                         width: 200px;
                     }
                 }
+            }
+        }
+
+        .Triforce {
+            img {
+                width: 400px;
+                padding-bottom: 10px;
+            }
+            p{
+                padding-bottom: 32px;
+            }
+        }
+
+        .Kingdom {
+
+
+            img {
+                width: 50%;
             }
         }
     }
