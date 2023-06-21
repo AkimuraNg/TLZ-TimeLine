@@ -8,13 +8,19 @@ $fontfamily: 'Regular';
         font-size: 36px;
     }
 
-    h3{
+    h3 {
         font-family: $fontfamily;
         font-size: 20px;
         text-transform: uppercase;
         padding-top: 32px;
         padding-bottom: 10px;
         border-bottom: 1px solid white;
+    }
+
+    button {
+        background: black;
+        border: none;
+        color: white;
     }
 
     .card {
@@ -48,6 +54,20 @@ $fontfamily: 'Regular';
         }
     }
 
+    .oot {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin: 12px 6px;
+    }
+
+    .mm {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin: 12px 6px;
+    }
+
     .botw {
         display: flex;
         flex-wrap: wrap;
@@ -66,14 +86,21 @@ $fontfamily: 'Regular';
 @media (min-width: 1440px) {
     .npc {
 
-        h3{
+        h3 {
             text-align: left;
         }
+
         .card {
             width: 400px;
 
+            .card-body {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
             img {
-                width: 60%;
+                width: 100%;
             }
 
             h4 {

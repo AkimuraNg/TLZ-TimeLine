@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"Saria",
+        "desc":"Sage of the Forest",
+        "img":"https://cdn.wikimg.net/en/zeldawiki/images/thumb/0/0f/OoT_Saria_Artwork.png/215px-OoT_Saria_Artwork.png"
+    },
+    {
+        "id":2,
+        "name":"Rauru",
+        "desc":"Sage of Light",
+        "img":"https://cdn.wikimg.net/en/zeldawiki/images/b/b5/OoT_Rauru.png"
+    },
+    {
+        "id":3,
+        "name":"Darunia",
+        "desc":"Sage of Fire",
+        "img":"https://cdn.wikimg.net/en/zeldawiki/images/d/d3/OoT_Darunia_Artwork.png"
+    },
+    {
+        "id":4,
+        "name":"Princess Ruto",
+        "desc":"Sage of Water",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/db/Rutoadult.png"
+    },
+    {
+        "id":5,
+        "name":"Nabooru",
+        "desc":"Sage of Spirit",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1e/OoT_Nabooru_Artwork.png"
+    },
+    {
+        "id":6,
+        "name":"Impa",
+        "desc":"Sage of Shadow",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/76/OoT_Impa_Artwork.png"
+    },
+    {
+        "id":7,
+        "name":"Sheik",
+        "desc":"Sheikah Warrior",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e5/OoT_Sheik_Artwork.png"
+    },
+    {
+        "id":8,
+        "name":"Navi",
+        "desc":"Link's Companion",
+        "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/08/OoT3D_Navi_Artwork.png"
+    },
+    {
+        "id":9,
+        "name":"Malon",
+        "desc":"Epona Care Taker",
+        "img":"https://cdn.wikimg.net/en/zeldawiki/images/2/28/OoT_Malon_Artwork.png"
+    }
+]

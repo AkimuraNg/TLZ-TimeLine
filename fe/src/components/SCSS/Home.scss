@@ -65,12 +65,14 @@
 
 @media (min-width: 1440px) {
     .Homepage {
+        padding-top: 200px;
+
         .bg {
             display: block;
-            width: 40%;
+            width: 60%;
             position: absolute;
-            left: 30%;
-            top: 16%;
+            left: 20%;
+            top: 10%;
             opacity: 0.08;
             animation-name: spinning;
             animation-duration: 68s;

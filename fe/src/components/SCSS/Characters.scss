@@ -3,6 +3,10 @@ $fontfamily: 'Regular';
 .CharactersPage {
     text-align: center;
 
+    .bg {
+        display: none;
+    }
+
     h1 {
         font-family: $fontfamily;
         font-size: 36px;
@@ -42,7 +46,7 @@ $fontfamily: 'Regular';
         margin: 10px 0px;
         justify-content: center;
         align-items: center;
-        background: black;
+        background: transparent;
         color: white;
         box-sizing: border-box;
         border-radius: 0px;
@@ -59,8 +63,9 @@ $fontfamily: 'Regular';
     .Zelda {
         padding-top: 20px;
         margin: 10px 10px;
-        .card{
-            img{
+
+        .card {
+            img {
                 width: 180px;
             }
         }
@@ -98,6 +103,7 @@ $fontfamily: 'Regular';
         .Zelda {
             .card {
                 flex-direction: row-reverse;
+
                 img {
                     width: 60%
                 }
@@ -117,6 +123,30 @@ $fontfamily: 'Regular';
 
 @media (min-width: 1400px) {
     .CharactersPage {
+
+        .bg {
+            display: block;
+            width: 60%;
+            position: absolute;
+            left: 20%;
+            top: 36%;
+            opacity: 0.08;
+            animation-name: spinning;
+            animation-duration: 68s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+
+            @keyframes spinning {
+                from {
+                    transform: rotate(360deg);
+                }
+
+                to {
+                    transform: rotate(0deg);
+                }
+            }
+        }
+
         h1 {
             font-size: 60px;
         }
