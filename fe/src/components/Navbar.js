@@ -1,9 +1,11 @@
 import React from 'react'
 import './SCSS/Navbar.scss'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import Logo from '../images/logo.png'
 
 const Navbar = () => {
+    const { pathname } = useLocation();
+    if (pathname === '/') return null;
     return (
         <nav className='navbar navbar-expand-lg sticky-top bg-body-tertiary' data-bs-theme='dark'>
             <div className='container-fluid'>

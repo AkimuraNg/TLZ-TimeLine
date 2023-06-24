@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Midna",
+        "desc": "Twilight Princess",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/b/b6/TPHD_Midna_Artwork.png"
+    },
+    {
+        "id": 2,
+        "name": "Hero's Spirit",
+        "desc": "Hero of Time",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/cd/TP_Hero%27s_Spirit_Model.png"
+    },
+    {
+        "id": 3,
+        "name": "White Wolf",
+        "desc": "Hero of Time's Lustrous Manifestation",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/5/51/TP_White_Wolf_Model.png"
+    },
+    {
+        "id": 4,
+        "name": "Zant",
+        "desc": "King of Twilight",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/97/TPHD_Zant_Artwork.png"
+    },
+    {
+        "id": 5,
+        "name": "Ordona",
+        "desc": "Ordona Province's Spirit of Light",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/c6/TP_Ordona_Render.png"
+    },
+    {
+        "id": 6,
+        "name": "Faron",
+        "desc": "Faron Province's Spirit of Light",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/7c/TP_Faron_Render.png"
+    },
+    {
+        "id": 7,
+        "name": "Eldin",
+        "desc": "Eldin Province's Spirit of Light",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/f/fe/TP_Eldin_%28Spirit%29_Model.png"
+    },
+    {
+        "id": 8,
+        "name": "Lanayru",
+        "desc": "Lanayru Province's Spirit of Light",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/TPHD_Lanayru_Render.png"
+    }
+]

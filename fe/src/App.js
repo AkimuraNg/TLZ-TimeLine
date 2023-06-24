@@ -8,6 +8,7 @@ import History from './components/History'
 import { Route, Routes } from 'react-router-dom'
 import './fonts/Triforce.ttf'
 import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
 
 
@@ -16,6 +17,7 @@ function App() {
     <div className="App">
 
       <div className='container-fluid'>
+        <Navbar/>
         <main className='wrapper'>
           <Routes>
             <Route path='/' element={<Intro />}></Route>

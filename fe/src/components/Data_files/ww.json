@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "King Daphnes Nohansen Hyrule",
+        "desc": "King of Hyrule",
+        "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/10/TWW_Daphnes_Nohansen_Hyrule_Artwork.png"
+    },
+    {
+        "id": 2,
+        "name": "King of Red Lions",
+        "desc": "Talking Boat and Link's Companion",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/3/34/TWWHD_Link_Sailing_Artwork.png"
+    },
+    {
+        "id": 3,
+        "name": "Tetra",
+        "desc": "Leader to a New World",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/3/32/TWWHD_Tetra_Artwork.png"
+    },
+    {
+        "id": 4,
+        "name": "Medli",
+        "desc": "Apprentice Attendant of Valoo. Sage of Earth",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/cf/TWWHD_Medli_Artwork.png"
+    },
+    {
+        "id": 5,
+        "name": "Laruto",
+        "desc": "Former Earth Sage",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/4/4c/TWWHD_Laruto_Artwork.png"
+    },
+    {
+        "id": 6,
+        "name": "Makar",
+        "desc": "Sage of Wind",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/9a/TWWHD_Makar_Artwork.png"
+    },
+    {
+        "id": 7,
+        "name": "Fado",
+        "desc": "Former Wind Sage",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/71/TWWHD_Fado_Artwork.png"
+    },
+    {
+        "id": 8,
+        "name": "Jabun",
+        "desc": "Water Spirit",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/a/a7/TWW_Jabun_Artwork.png"
+    },
+    {
+        "id": 9,
+        "name": "Aryll",
+        "desc": "Link's Younger Sister",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/0/08/TWWHD_Aryll_Artwork.png"
+    }
+]

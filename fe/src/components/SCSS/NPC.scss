@@ -3,6 +3,7 @@ $fontfamily: 'Regular';
 .npc {
     text-align: center;
 
+
     h1 {
         font-family: $fontfamily;
         font-size: 36px;
@@ -24,16 +25,16 @@ $fontfamily: 'Regular';
     }
 
     .card {
-        background-color: black;
+        background-color: transparent;
         width: 18rem;
         height: auto;
         display: flex;
         align-items: center;
         justify-content: center;
         color: white;
-        box-sizing: border-box;
-        border: 1px solid white;
-        border-radius: 8px;
+        // box-sizing: border-box;
+        // border: 1px solid white;
+        // border-radius: 8px;
         margin: 12px 4px;
         padding: 16px 8px;
 
@@ -54,32 +55,30 @@ $fontfamily: 'Regular';
         }
     }
 
-    .oot {
+    .data {
+        // padding-top: 120px;
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-evenly;
-        margin: 12px 6px;
+        justify-content: space-around;
+        margin: 16px 4px;
     }
 
-    .mm {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        margin: 12px 6px;
-    }
+}
 
-    .botw {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        margin: 12px 6px;
-    }
+@media (min-width: 768px) {
+    .npc {
 
-    .totk {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        margin: 10px 6px;
+        .card {
+            img {
+                width: 100%;
+            }
+
+            .card-body {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+        }
     }
 }
 
@@ -91,20 +90,25 @@ $fontfamily: 'Regular';
         }
 
         .card {
-            width: 400px;
+            width: 24rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
 
-            .card-body {
+            .card-content {
+                padding-top: 12px;
                 display: flex;
                 flex-direction: column;
                 align-items: center;
             }
 
             img {
-                width: 100%;
+                width: 70%;
+                height: 50%;
             }
 
             h4 {
-                font-size: 28px;
+                font-size: 26px;
             }
 
             p {

@@ -1,15 +1,13 @@
 import React from 'react'
 import './SCSS/History.scss'
-import Navbar from './Navbar'
 import { GiTriforce } from 'react-icons/gi'
 
 const History = () => {
     return (
         <div className='History'>
-            <Navbar />
             <h1>THE HISTORY OF HYRULE</h1>
             <section className='beginning'>
-                <h2> <GiTriforce style={{ color: 'white' }} /> GOLDEN GODDESSES <GiTriforce style={{ color: 'white' }} /></h2>
+                <h2> <GiTriforce/> GOLDEN GODDESSES <GiTriforce/></h2>
                 <p>The Golden Goddesses are a recurring trio of deities: Din, Nayru and Farore. They are the chief gods and creators of the land that becomes the Hyrule and the extended world that it resides in.</p>
                 <img src={'https://64.media.tumblr.com/bce3d6b1bf3a8bb04127ad84873f35f5/tumblr_mmzm8wRfmM1rotlu5o1_400.png'} alt='Golden Goddesses' />
                 <p>It is understood that the Golden Goddesses have always existed, and that they are omnipotent and eternal. Though the Golden Goddesses are the most important gods of the world, they are mentioned by few characters in the series, and knowledge of them has been shown to be limited to the people of Hyrule alone, most races worshiping their own patron deities.

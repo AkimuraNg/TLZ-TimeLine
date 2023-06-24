@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Fi",
+        "desc": "Spirit of the Sword",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/e/ed/SS_Fi_Artwork.png"
+    },
+    {
+        "id": 2,
+        "name": "Demise",
+        "desc": "Demon King",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/4/4b/SS_Demise_Render.png"
+    },
+    {
+        "id": 3,
+        "name": "Ghirahim",
+        "desc": "Lord Ghirahim",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/f/fc/SS_Ghirahim_Artwork.png"
+    },
+    {
+        "id": 4,
+        "name": "Groose",
+        "desc": "Link's Personal Rival",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d4/SS_Groose_Artwork.png"
+    },
+    {
+        "id": 5,
+        "name": "Impa",
+        "desc": "Servant of the Goddess",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/8/8d/SS_Impa_Artwork.png"
+    },
+    {
+        "id": 6,
+        "name": "Gaepora",
+        "desc": "Zelda's Father",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/74/SS_Gaepora_Artwork.png"
+    },
+    {
+        "id": 7,
+        "name": "Levias",
+        "desc": "Great Spirit of the Sky",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/2/21/SSHD_Levias_Model.png"
+    },
+    {
+        "id": 8,
+        "name": "Faron",
+        "desc": "Water Dragon",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d1/SSHD_Faron_Model.png"
+    },
+    {
+        "id": 9,
+        "name": "Eldin",
+        "desc": "Fire Dragon",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/db/SSHD_Eldin_Model.png"
+    },
+    {
+        "id": 10,
+        "name": "Lanayru",
+        "desc": "Thunder Dragon",
+        "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d3/SSHD_Lanayru_Model.png"
+    }
+]

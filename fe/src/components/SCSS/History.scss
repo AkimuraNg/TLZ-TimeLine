@@ -34,7 +34,7 @@ $fontfamily: 'Regular';
             text-align: center;
             padding-top: 40px;
             align-items: center;
-            background: black;
+            background: transparent;
 
             img {
                 width: 160px;
@@ -83,6 +83,7 @@ $fontfamily: 'Regular';
 
 @media (min-width: 1440px) {
     .History {
+
         p {
             font-size: 20px;
         }
@@ -103,6 +104,10 @@ $fontfamily: 'Regular';
                     }
                 }
             }
+
+            img {
+                width: 28%;
+            }
         }
 
         .Triforce {
@@ -110,14 +115,13 @@ $fontfamily: 'Regular';
                 width: 400px;
                 padding-bottom: 10px;
             }
-            p{
+
+            p {
                 padding-bottom: 32px;
             }
         }
 
         .Kingdom {
-
-
             img {
                 width: 50%;
             }
