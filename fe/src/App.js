@@ -11,9 +11,13 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import games from './components/Data_files/games';
 
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+
 
 
 function App() {
+  AOS.init()
   return (
     <div className="App">
 

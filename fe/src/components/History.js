@@ -4,9 +4,9 @@ import { GiTriforce } from 'react-icons/gi'
 
 const History = () => {
     return (
-        <div className='History'>
+        <div className='History' data-aos='fade-in' data-aos-duration='2000'>
             <h1>THE HISTORY OF HYRULE</h1>
-            <section className='beginning'>
+            <section className='beginning' data-aos='fade-in' data-aos-delay='500' data-aos-duration='3000'>
                 <h2> <GiTriforce/> GOLDEN GODDESSES <GiTriforce/></h2>
                 <p>The Golden Goddesses are a recurring trio of deities: Din, Nayru and Farore. They are the chief gods and creators of the land that becomes the Hyrule and the extended world that it resides in.</p>
                 <img src={'https://64.media.tumblr.com/bce3d6b1bf3a8bb04127ad84873f35f5/tumblr_mmzm8wRfmM1rotlu5o1_400.png'} alt='Golden Goddesses' />
@@ -14,7 +14,7 @@ const History = () => {
                     <br /> Each of the three Goddesses is associated with a characteristic, common element, and color: Din is power, fire and red; Nayru is wisdom, water and blue; Farore is courage, wind and green. They are the creators of the sacred Triforce that is made up of their three associated characteristics of power, wisdom and courage.
                 </p>
                 <div className='card-items'>
-                    <div className='card'>
+                    <div className='card' data-aos='fade-up' data-aos-delay='300' data-aos-duration='1500'>
                         <img className='card-img-top' src={'https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2f/TLoZ_Series_Crest_of_Din_Symbol.png'} alt='Din' />
                         <div className='card-body'>
                             <h3 className='card-title'>DIN</h3>
@@ -23,7 +23,7 @@ const History = () => {
                             </p>
                         </div>
                     </div>
-                    <div className='card'>
+                    <div className='card' data-aos='fade-up' data-aos-delay='600' data-aos-duration='1500'>
                         <img className='card-img-top' src={'https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/08/TLoZ_Series_Crest_of_Nayru_Symbol.png'} alt='Din' />
                         <div className='card-body'>
                             <h3 className='card-title'>NAYRU</h3>
@@ -32,7 +32,7 @@ const History = () => {
                             </p>
                         </div>
                     </div>
-                    <div className='card'>
+                    <div className='card' data-aos='fade-up' data-aos-delay='900' data-aos-duration='1500'>
                         <img className='card-img-top' src={'https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bc/TLoZ_Series_Crest_of_Farore_Symbol.png'} alt='Din' />
                         <div className='card-body'>
                             <h3 className='card-title'>FARORE</h3>
@@ -43,7 +43,7 @@ const History = () => {
                     </div>
                 </div>
             </section>
-            <section className='Triforce'>
+            <section className='Triforce' data-aos='fade-in' data-aos-delay='1000' data-aos-duration='3000'>
                 <h2><GiTriforce /> THE TRIFORCE <GiTriforce /></h2>
                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/d/d2/ALttP_Triforce_Artwork.png'} alt='Triforce 1' />
                 <p>The Triforce, also known as the Golden Power, the Power of the Chosen One, the Absolute Power, and the Ultimate Power, is a sacred golden relic left behind by the Golden Goddesses, Din, Nayru, and Farore, once they finished transforming the Emptiness into the land which came to be known as Hyrule. The Goddess Hylia was tasked with the protection of this world and the Triforce. After Hylia ceases to exist as a goddess, the Triforce is protected by the Royal Family of Hyrule, the sages, and the Sheikah.
@@ -52,7 +52,7 @@ const History = () => {
                 <p> The Triforce consists of three separate triangles: the Triforce of Power is always depicted as the top piece, with the Triforce of Courage represented by the right piece, and the Triforce of Wisdom represented by the left piece. Although the Triforce was created by gods, it can never be used by such, possibly the goddesses' way of giving hope to all the mortal beings in Hyrule.
                 </p>
             </section>
-            <section className='Kingdom'>
+            <section className='Kingdom' data-aos='fade-in'data-aos-delay='1000' data-aos-duration='3000'>
                 <h2><GiTriforce /> HYRULE KINGDOM <GiTriforce /></h2>
                 <p>Hyrule, also known as the Land of the Gods, and the Lesser Kingdom of Hyrule, is the name of the land that serves as the iconic setting for a majority of the games in the Zelda series.
                     It is usually depicted as a beautiful and prosperous land blessed with deep forests, tall mountains, vast lakes, a barren desert, great cities, villages, and many ancient temples hidden throughout.
