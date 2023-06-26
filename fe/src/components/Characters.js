@@ -4,9 +4,9 @@ import './SCSS/Characters.scss'
 const Characters = () => {
     return (
         <div className='CharactersPage'>
-            <h1>MAIN CHARACTERS</h1>
+            <h1 data-aos='zoom-in-down' data-aos-duration='1000'>MAIN CHARACTERS</h1>
             <img className='bg' src={'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48494f72-4f45-40a7-8dac-9c9e478ef481/d57536l-e3620b9a-9bfa-40f6-8f8a-ed4cccbfacd8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NDk0ZjcyLTRmNDUtNDBhNy04ZGFjLTljOWU0NzhlZjQ4MVwvZDU3NTM2bC1lMzYyMGI5YS05YmZhLTQwZjYtOGY4YS1lZDRjY2NiZmFjZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0pyTojW_AbWaePli2Tu7Dd43Y2lagF_IlYywlgeKiwE'} alt='background' />
-            <section className='Link'>
+            <section className='Link' data-aos='fade-right' data-aos-delay='1200' data-aos-duration='2000'>
                 <div className='row'>
                     <div className='card'>
                         <div className='col-sm-6 col-md-6 col-xl-6'>
@@ -29,7 +29,7 @@ const Characters = () => {
                     </div>
                 </div>
             </section>
-            <section className='Zelda'>
+            <section className='Zelda' data-aos='fade-down-right' data-aos-delay='1200' data-aos-duration='2000'>
                 <div className='row'>
                     <div className='card'>
                         <div className='col-sm-6 col-md-6 col-xl-6'>
@@ -51,7 +51,7 @@ const Characters = () => {
                     </div>
                 </div>
             </section>
-            <section className='Ganon'>
+            <section className='Ganon' data-aos='fade-up-right' data-aos-duration='2000'>
                 <div className='row'>
                     <div className='card'>
                         <div className='col-sm-6 col-md-6 col-xl-6'>

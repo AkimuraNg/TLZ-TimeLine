@@ -16,29 +16,18 @@
         position: absolute;
         font-size: 2rem;
         left: 8px;
-        // position: absolute;
-        // top: 50%;
-        // font-size: 5rem;
-        // color: white;
-        // left: 32px;
-        // z-index: 10;
-        // user-select: none;
-        // cursor: pointer;
+        z-index: 10;
+        user-select: none;
+        cursor: pointer;
     }
 
     .rightArrow {
         position: absolute;
         font-size: 2rem;
         right: 8px;
-        // padding-right: 32px;
-        // position: absolute;
-        // top: 50%;
-        // font-size: 3rem;
-        // color: white;
-        // right: 32px;
-        // z-index: 10;
-        // user-select: none;
-        // cursor: pointer;
+        z-index: 10;
+        user-select: none;
+        cursor: pointer;
     }
 
 
@@ -49,17 +38,20 @@
         justify-content: center;
         align-items: center;
 
-        .slide {
-            transition: transform 1s ease-in-out;
+        // .slide {
+        //     transition: transform 1s ease-in-out;
 
-            &:active {
-                transform: translateX(0);
-            }
-        }
+        //     &:active {
+        //         transform: translateX(0);
+        //     }
+        // }
 
         .card {
-            width: 20rem;
+            width: 18rem;
             background: transparent;
+            display: flex;
+            align-items: center;
+            justify-content: center;
 
             .card-title,
             .card-body {
@@ -68,9 +60,13 @@
             }
 
             img {
-                background: white;
-                width: 100%;
+                background: grey;
+                width: 80%;
             }
+        }
+
+        .carousel-control-prev, .carousel-control-next{
+            visibility: hidden;
         }
     }
 }

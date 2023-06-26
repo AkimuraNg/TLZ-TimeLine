@@ -9,7 +9,7 @@ import { Route, Routes } from 'react-router-dom'
 import './fonts/Triforce.ttf'
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
-import games from './components/Data_files/games';
+// import games from './components/Data_files/games';
 
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -22,18 +22,18 @@ function App() {
     <div className="App">
 
       <div className='container-fluid'>
-        <Navbar/>
+        <Navbar />
         <main className='wrapper'>
           <Routes>
             <Route path='/' element={<Intro />}></Route>
             <Route path='/home' element={<Home />}></Route>
-            <Route path='/history' element={<History/>}></Route>
-            <Route path='/characters' element={<Characters/>}></Route>
-            <Route path='/npcs' element={<NPC/>}></Route>
-            <Route path='/games' element={<Game slides={games} />}></Route>
+            <Route path='/history' element={<History />}></Route>
+            <Route path='/characters' element={<Characters />}></Route>
+            <Route path='/npcs' element={<NPC />}></Route>
+            <Route path='/games' element={<Game />}></Route>
           </Routes>
         </main>
-        <Footer/>
+        <Footer />
       </div>
     </div>
   );

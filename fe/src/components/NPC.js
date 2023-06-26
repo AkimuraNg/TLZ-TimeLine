@@ -19,7 +19,7 @@ const NPC = () => {
     const [show7, setShow7] = useState(false)
 
     return (
-            <div className='npc'>
+            <div className='npc' data-aos='zoom-in' data-aos-duration='1200'>
                 <h1>NPC</h1>
                 <p>Nominated NPCs throughout the series are listed here.</p>
 
@@ -30,7 +30,7 @@ const NPC = () => {
 
                     {oot.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
@@ -47,7 +47,7 @@ const NPC = () => {
                 {show4 && <section className='data'>
                     {mm.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
@@ -64,7 +64,7 @@ const NPC = () => {
                 {show5 && <section className='data'>
                     {ww.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
@@ -81,7 +81,7 @@ const NPC = () => {
                 {show6 && <section className='data'>
                     {tp.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
@@ -98,7 +98,7 @@ const NPC = () => {
                 {show7 && <section className='data'>
                     {ss.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
@@ -115,7 +115,7 @@ const NPC = () => {
                 {show2 && <section className='data'>
                     {botw.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
@@ -133,7 +133,7 @@ const NPC = () => {
                 {show3 && <section className='data'>
                     {totk.map(post => {
                         return (
-                            <div className='card' key={post.id}>
+                            <div className='card' key={post.id} data-aos='fade-down' data-aos-duration='800'>
                                 <img className='card-img-top' src={post.img} alt='npc' />
                                 <div className='card-content'>
                                     <h4 className='card-title'>{post.name}</h4>
