@@ -9,6 +9,7 @@ import { Route, Routes } from 'react-router-dom'
 import './fonts/Triforce.ttf'
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
+import games from './components/Data_files/games';
 
 
 
@@ -25,7 +26,7 @@ function App() {
             <Route path='/history' element={<History/>}></Route>
             <Route path='/characters' element={<Characters/>}></Route>
             <Route path='/npcs' element={<NPC/>}></Route>
-            <Route path='/games' element={<Game/>}></Route>
+            <Route path='/games' element={<Game slides={games} />}></Route>
           </Routes>
         </main>
         <Footer/>

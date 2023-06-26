@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "Title": "The Legend of Zelda",
+        "content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/0c/TLoZ_NES_NA_Box.png"
+    },
+    {
+        "id": 2,
+        "Title": "The Adventure of Link",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/3/33/TAoL_NA_NES_Box_Artwork.png"
+    },
+    {
+        "id": 3,
+        "Title": "A Link to the Past",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/9/91/ALttP_English_Logo.png"
+    },
+    {
+        "id": 4,
+        "Title": "Link's Awakening",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/ed/LA_English_Logo.png"
+    },
+    {
+        "id": 5,
+        "Title": "Ocarina of Time",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/OoT_English_Logo.png"
+    },
+    {
+        "id": 6,
+        "Title": "Majora's Mask",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/MM_English_Logo.png"
+    },
+    {
+        "id": 7,
+        "Title": "Oracle of Seasons",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/OoS_English_Logo.png"
+    },
+    {
+        "id": 8,
+        "Title": "Oracle of Ages",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/eb/OoA_English_Logo.png"
+    }
+]
