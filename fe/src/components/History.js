@@ -43,7 +43,7 @@ const History = () => {
                     </div>
                 </div>
             </section>
-            <section className='Triforce' data-aos='fade-in' data-aos-delay='700' data-aos-duration='3000'>
+            <section className='Triforce' data-aos='fade-in' data-aos-delay='1500' data-aos-duration='3000'>
                 <h2><GiTriforce /> THE TRIFORCE <GiTriforce /></h2>
                 <img src={'https://cdn.wikimg.net/en/zeldawiki/images/d/d2/ALttP_Triforce_Artwork.png'} alt='Triforce 1' />
                 <p>The Triforce, also known as the Golden Power, the Power of the Chosen One, the Absolute Power, and the Ultimate Power, is a sacred golden relic left behind by the Golden Goddesses, Din, Nayru, and Farore, once they finished transforming the Emptiness into the land which came to be known as Hyrule. The Goddess Hylia was tasked with the protection of this world and the Triforce. After Hylia ceases to exist as a goddess, the Triforce is protected by the Royal Family of Hyrule, the sages, and the Sheikah.
@@ -52,7 +52,7 @@ const History = () => {
                 <p> The Triforce consists of three separate triangles: the Triforce of Power is always depicted as the top piece, with the Triforce of Courage represented by the right piece, and the Triforce of Wisdom represented by the left piece. Although the Triforce was created by gods, it can never be used by such, possibly the goddesses' way of giving hope to all the mortal beings in Hyrule.
                 </p>
             </section>
-            <section className='Kingdom' data-aos='fade-in'data-aos-delay='700' data-aos-duration='3000'>
+            <section className='Kingdom' data-aos='fade-in' data-aos-delay='1500' data-aos-duration='3000'>
                 <h2><GiTriforce /> HYRULE KINGDOM <GiTriforce /></h2>
                 <p>Hyrule, also known as the Land of the Gods, and the Lesser Kingdom of Hyrule, is the name of the land that serves as the iconic setting for a majority of the games in the Zelda series.
                     It is usually depicted as a beautiful and prosperous land blessed with deep forests, tall mountains, vast lakes, a barren desert, great cities, villages, and many ancient temples hidden throughout.

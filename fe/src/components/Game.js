@@ -24,8 +24,8 @@ const Game = () => {
 
     return (
         <div className='Games'>
-            <h1 style={{ borderBottom: 'none' }}>Released Games</h1>
-            <p>1986 - 2023</p>
+            <h1 style={{ borderBottom: 'none' }} data-aos='zoom-in-down' data-aos-duration='1000'>Released Games</h1>
+            <p data-aos='zoom-in-down' data-aos-delay='500' data-aos-duration='1000'>1986 - 2023</p>
 
             {/* <h3 style={{fontSize: 23}}>main series</h3>
             <BiChevronsLeft className='leftArrow' onClick={prevSlide} />
@@ -51,7 +51,7 @@ const Game = () => {
             {/* <h3>Main Series</h3>
             <span>Swipe to read</span> */}
 
-            <section className='origin'>
+            <section className='origin' data-aos='zoom-in-up' data-aos-delay='1200' data-aos-duration='2000'>
                 <h3>Main Series</h3>
                 <div id='carouselGames' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
@@ -84,7 +84,7 @@ const Game = () => {
                 </button>
             </section>
 
-            <section className='remakes'>
+            <section className='remakes' data-aos='zoom-in-down' data-aos-duration='2000'> 
                 <h3>Remakes</h3>
                 <div id='carouselRemakes' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
@@ -117,8 +117,8 @@ const Game = () => {
                 </button>
             </section>
 
-            <section className='spinoffs'>
-                <h3>Spinoffs</h3>
+            <section className='spinoffs' data-aos='zoom-in-right' data-aos-duration='2000'>
+                <h3>Spin-offs</h3>
                 <div id='carouselSpinoffs' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
                         {spinoffs.map((post, index) => {
