@@ -1,11 +1,20 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import './SCSS/Navbar.scss'
 import { Link, useLocation } from 'react-router-dom'
 import Logo from '../images/logo.png'
 
 const Navbar = () => {
     const { pathname } = useLocation();
+
+    useEffect(() => {
+        if (pathname !== '/') {
+          window.scrollTo(0, 0);
+        }
+      }, [pathname]);
+      
     if (pathname === '/') return null;
+
+
     return (
         <nav className='navbar navbar-expand-lg sticky-top bg-body-tertiary' data-bs-theme='dark'>
             <div className='container-fluid'>

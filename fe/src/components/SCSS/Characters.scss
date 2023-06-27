@@ -3,10 +3,6 @@ $fontfamily: 'Regular';
 .CharactersPage {
     text-align: center;
 
-    .bg {
-        display: none;
-    }
-
     h1 {
         font-family: $fontfamily;
         font-size: 36px;
@@ -123,29 +119,6 @@ $fontfamily: 'Regular';
 
 @media (min-width: 1400px) {
     .CharactersPage {
-
-        .bg {
-            display: block;
-            width: 60%;
-            position: absolute;
-            left: 20%;
-            top: 36%;
-            opacity: 0.08;
-            animation-name: spinning;
-            animation-duration: 68s;
-            animation-timing-function: linear;
-            animation-iteration-count: infinite;
-
-            @keyframes spinning {
-                from {
-                    transform: rotate(360deg);
-                }
-
-                to {
-                    transform: rotate(0deg);
-                }
-            }
-        }
 
         h1 {
             font-size: 60px;

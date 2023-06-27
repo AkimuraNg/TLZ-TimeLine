@@ -1,9 +1,12 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './SCSS/Games.scss'
 import games from './Data_files/games.json'
+import remakes from './Data_files/remakes.json'
+import spinoffs from './Data_files/spinoffs.json'
+import { Link } from 'react-router-dom'
 // import { BiChevronsLeft, BiChevronsRight } from 'react-icons/bi'
 
-const Game = ({ slides }) => {
+const Game = () => {
     // const [current, setCurrent] = useState(0)
     // const length = slides.length
 
@@ -47,19 +50,22 @@ const Game = ({ slides }) => {
             </section> */}
             {/* <h3>Main Series</h3>
             <span>Swipe to read</span> */}
+
             <section className='origin'>
+                <h3>Main Series</h3>
                 <div id='carouselGames' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
                         {games.map((post, index) => {
                             const itemClasses = index === 0 ? 'carousel-item active' : 'carousel-item';
                             return (
-                                <div class={itemClasses} key={post.id}>
+                                <div className={itemClasses} key={post.id}>
                                     <div className='card'>
                                         <img src={post.Image} alt='...' />
                                         <div className='card-content'>
                                             <h4 className='card-title'> {post.Title}</h4>
                                             <span>{post.Time}</span>
                                             <p className='card-body'>{post.Content}</p>
+                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more about the game</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -77,6 +83,73 @@ const Game = ({ slides }) => {
                     <span className='visually-hidden'>Next</span>
                 </button>
             </section>
+
+            <section className='remakes'>
+                <h3>Remakes</h3>
+                <div id='carouselRemakes' className='carousel slide carousel-fade'>
+                    <div className='carousel-inner'>
+                        {remakes.map((post, index) => {
+                            const itemClasses = index === 0 ? 'carousel-item active' : 'carousel-item';
+                            return (
+                                <div className={itemClasses} key={post.id}>
+                                    <div className='card'>
+                                        <img src={post.Image} alt='...' />
+                                        <div className='card-content'>
+                                            <h4 className='card-title'> {post.Title}</h4>
+                                            <span>{post.Time}</span>
+                                            <p className='card-body'>{post.Content}</p>
+                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more about the game</Link>
+                                        </div>
+                                    </div>
+                                </div>
+                            )
+                        })}
+
+                    </div>
+                </div>
+                <button className='carousel-control-prev' type='button' data-bs-target='#carouselRemakes' data-bs-slide='prev'>
+                    <span className='carousel-control-prev-icon' aria-hidden='true'></span>
+                    <span className='visually-hidden'>Previous</span>
+                </button>
+                <button className='carousel-control-next' type='button' data-bs-target='#carouselRemakes' data-bs-slide='next'>
+                    <span className='carousel-control-next-icon' aria-hidden='true'></span>
+                    <span className='visually-hidden'>Next</span>
+                </button>
+            </section>
+
+            <section className='spinoffs'>
+                <h3>Spinoffs</h3>
+                <div id='carouselSpinoffs' className='carousel slide carousel-fade'>
+                    <div className='carousel-inner'>
+                        {spinoffs.map((post, index) => {
+                            const itemClasses = index === 0 ? 'carousel-item active' : 'carousel-item';
+                            return (
+                                <div className={itemClasses} key={post.id}>
+                                    <div className='card'>
+                                        <img src={post.Image} alt='...' />
+                                        <div className='card-content'>
+                                            <h4 className='card-title'> {post.Title}</h4>
+                                            <span>{post.Time}</span>
+                                            <p className='card-body'>{post.Content}</p>
+                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more about the game</Link>
+                                        </div>
+                                    </div>
+                                </div>
+                            )
+                        })}
+
+                    </div>
+                </div>
+                <button className='carousel-control-prev' type='button' data-bs-target='#carouselSpinoffs' data-bs-slide='prev'>
+                    <span className='carousel-control-prev-icon' aria-hidden='true'></span>
+                    <span className='visually-hidden'>Previous</span>
+                </button>
+                <button className='carousel-control-next' type='button' data-bs-target='#carouselSpinoffs' data-bs-slide='next'>
+                    <span className='carousel-control-next-icon' aria-hidden='true'></span>
+                    <span className='visually-hidden'>Next</span>
+                </button>
+            </section>
+
         </div>
     )
 }
