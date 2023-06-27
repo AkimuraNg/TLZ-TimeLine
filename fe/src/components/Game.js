@@ -45,8 +45,10 @@ const Game = ({ slides }) => {
                     )
                 })}
             </section> */}
+            {/* <h3>Main Series</h3>
+            <span>Swipe to read</span> */}
             <section className='origin'>
-                <div id='carouselGames' className='carousel slide'>
+                <div id='carouselGames' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
                         {games.map((post, index) => {
                             const itemClasses = index === 0 ? 'carousel-item active' : 'carousel-item';
@@ -56,6 +58,7 @@ const Game = ({ slides }) => {
                                         <img src={post.Image} alt='...' />
                                         <div className='card-content'>
                                             <h4 className='card-title'> {post.Title}</h4>
+                                            <span>{post.Time}</span>
                                             <p className='card-body'>{post.Content}</p>
                                         </div>
                                     </div>
@@ -64,15 +67,15 @@ const Game = ({ slides }) => {
                         })}
 
                     </div>
-                    <button className='carousel-control-prev' type='button' data-bs-target='#carouselGames' data-bs-slide='prev'>
-                        <span className='carousel-control-prev-icon' aria-hidden='true'></span>
-                        <span className='visually-hidden'>Previous</span>
-                    </button>
-                    <button className='carousel-control-next' type='button' data-bs-target='#carouselGames' data-bs-slide='next'>
-                        <span className='carousel-control-next-icon' aria-hidden='true'></span>
-                        <span className='visually-hidden'>Next</span>
-                    </button>
                 </div>
+                <button className='carousel-control-prev' type='button' data-bs-target='#carouselGames' data-bs-slide='prev'>
+                    <span className='carousel-control-prev-icon' aria-hidden='true'></span>
+                    <span className='visually-hidden'>Previous</span>
+                </button>
+                <button className='carousel-control-next' type='button' data-bs-target='#carouselGames' data-bs-slide='next'>
+                    <span className='carousel-control-next-icon' aria-hidden='true'></span>
+                    <span className='visually-hidden'>Next</span>
+                </button>
             </section>
         </div>
     )

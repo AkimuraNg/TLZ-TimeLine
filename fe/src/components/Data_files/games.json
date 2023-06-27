@@ -2,49 +2,141 @@
     {
         "id": 1,
         "Title": "The Legend of Zelda",
-        "content": "Some paragraphs",
+        "Time": "1986 - 1987",
+        "Content": "The first installment of The Legend of Zelda series. Originally came out in 1986 for Famicom Disk System in Japan and internationally on the NES in 1987.",
         "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/0c/TLoZ_NES_NA_Box.png"
     },
     {
         "id": 2,
         "Title": "The Adventure of Link",
-        "Content": "Some paragraphs",
+        "Time": "1987 - 1988",
+        "Content": "the second main installment of The Legend of Zelda series and the direct sequel to The Legend of Zelda. Originally released on the Famicom Disk System in Japan in 1987 and eventually on the NES in North America and Europe in 1988.",
         "Image": "https://cdn.wikimg.net/en/zeldawiki/images/3/33/TAoL_NA_NES_Box_Artwork.png"
     },
     {
         "id": 3,
         "Title": "A Link to the Past",
+        "Time": "1992",
         "Content": "Some paragraphs",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/9/91/ALttP_English_Logo.png"
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/7b/ALttP_English_Logo_2.png"
     },
     {
         "id": 4,
         "Title": "Link's Awakening",
+        "Time": "1993",
         "Content": "Some paragraphs",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/ed/LA_English_Logo.png"
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/f/fd/LA_English_Logo_2.png"
     },
     {
         "id": 5,
         "Title": "Ocarina of Time",
+        "Time": "1998",
         "Content": "Some paragraphs",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/OoT_English_Logo.png"
+        "Image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/48/OoT_NA_Box.jpg"
     },
     {
         "id": 6,
         "Title": "Majora's Mask",
+        "Time": "2000",
         "Content": "Some paragraphs",
         "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/MM_English_Logo.png"
     },
     {
         "id": 7,
         "Title": "Oracle of Seasons",
+        "Time": "2001",
         "Content": "Some paragraphs",
         "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/OoS_English_Logo.png"
     },
     {
         "id": 8,
         "Title": "Oracle of Ages",
+        "Time": "2001",
         "Content": "Some paragraphs",
         "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/eb/OoA_English_Logo.png"
+    },
+    {
+        "id": 9,
+        "Title": "Four Swords",
+        "Time": "2002",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/9/95/FS_English_Logo.png"
+    },
+    {
+        "id": 10,
+        "Title": "The Wind Waker",
+        "Time": "2003",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/TWW_English_Logo.png"
+    },
+    {
+        "id": 11,
+        "Title": "Four Swords Adventure",
+        "Time": "2004",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e4/FSA_English_Logo.png"
+    },
+    {
+        "id": 12,
+        "Title": "The Minish Cap",
+        "Time": "2005",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/TMC_English_Logo.png"
+    },
+    {
+        "id": 13,
+        "Title": "Twilight Princess",
+        "Time": "2006",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/16/TP_English_Logo.png"
+    },
+    {
+        "id": 14,
+        "Title": "Phantom Hourglass",
+        "Time": "2007",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/cc/PH_English_Logo.png"
+    },
+    {
+        "id": 15,
+        "Title": "Spirit Tracks",
+        "Time": "2009",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/ST_English_Logo.png"
+    },
+    {
+        "id": 16,
+        "Title": "Skyward Sword",
+        "Time": "2011",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/8/82/SS_English_Logo.png"
+    },
+    {
+        "id": 17,
+        "Title": "A Link Between Worlds",
+        "Time": "2013",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/ca/ALBW_English_Logo.png"
+    },
+    {
+        "id": 18,
+        "Title": "Tri Force Heroes",
+        "Time": "2015",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e0/TFH_English_Logo.png"
+    },
+    {
+        "id": 19,
+        "Title": "Breath of the Wild",
+        "Time": "2017",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/06/BotW_English_Logo.png"
+    },
+    {
+        "id": 20,
+        "Title": "Tears of the Kingdom",
+        "Time": "2023",
+        "Content": "Some paragraphs",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/4/4c/TotK_English_Logo.png"
     }
 ]
