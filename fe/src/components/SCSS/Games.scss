@@ -31,7 +31,9 @@
     }
 
 
-    .origin, .remakes, .spinoffs {
+    .origin,
+    .remakes,
+    .spinoffs {
         position: relative;
         top: 100px;
         padding-bottom: 100px;
@@ -41,7 +43,6 @@
         align-items: center;
 
         .card {
-            padding-top: 100px;
             width: auto;
             background: transparent;
             display: flex;
@@ -77,30 +78,24 @@
         .carousel-control-prev,
         .carousel-control-next {
             height: 20%;
-            top: 2%
-        }
-    }
-    .spinoffs{
-        p{
-            font-size: 14px;
-        }
-        .carousel-control-prev,
-        .carousel-control-next {
-            height: 12%;
-            top: 12%
+            top: -18%;
         }
     }
 }
 
 @media (min-width: 1440px) {
     .Games {
-        .origin, .remakes, .spinoffs {
+
+        .origin,
+        .remakes,
+        .spinoffs {
+            top: 50px;
 
             .carousel-control-prev,
             .carousel-control-next {
                 bottom: 0;
                 height: 20%;
-                top: 50%;
+                top: 38%;
             }
 
             .card {

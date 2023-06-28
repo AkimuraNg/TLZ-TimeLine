@@ -1,0 +1,418 @@
+[
+    {
+        "title": "Ocarina of Time",
+        "npc": [
+            {
+                "id": 1,
+                "name": "Saria",
+                "desc": "Sage of the Forest",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/0/0f/OoT_Saria_Artwork.png/215px-OoT_Saria_Artwork.png"
+            },
+            {
+                "id": 2,
+                "name": "Rauru",
+                "desc": "Sage of Light",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/b/b5/OoT_Rauru.png"
+            },
+            {
+                "id": 3,
+                "name": "Darunia",
+                "desc": "Sage of Fire",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d3/OoT_Darunia_Artwork.png"
+            },
+            {
+                "id": 4,
+                "name": "Princess Ruto",
+                "desc": "Sage of Water",
+                "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/db/Rutoadult.png"
+            },
+            {
+                "id": 5,
+                "name": "Nabooru",
+                "desc": "Sage of Spirit",
+                "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1e/OoT_Nabooru_Artwork.png"
+            },
+            {
+                "id": 6,
+                "name": "Impa",
+                "desc": "Sage of Shadow",
+                "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/76/OoT_Impa_Artwork.png"
+            },
+            {
+                "id": 7,
+                "name": "Sheik",
+                "desc": "Sheikah Warrior",
+                "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e5/OoT_Sheik_Artwork.png"
+            },
+            {
+                "id": 8,
+                "name": "Navi",
+                "desc": "Link's Companion",
+                "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/08/OoT3D_Navi_Artwork.png"
+            },
+            {
+                "id": 9,
+                "name": "Malon",
+                "desc": "Epona Care Taker",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/2/28/OoT_Malon_Artwork.png"
+            }
+        ]
+    },
+    {
+        "title": "Majora's Mask",
+        "npc": [
+            {
+                "id": 10,
+                "name": "Skull Kid",
+                "desc": "",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/2/21/MM3D_Skull_Kid_Artwork.png"
+            },
+            {
+                "id": 11,
+                "name": "Tatl",
+                "desc": "Link's Fairy Companion",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/99/MM3D_Tatl_Artwork.png"
+            },
+            {
+                "id": 12,
+                "name": "Tael",
+                "desc": "Tatl's Younger Brother",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/4/46/MM3D_Tael_Artwork.png"
+            },
+            {
+                "id": 13,
+                "name": "Kaepora Gaebora",
+                "desc": "",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/6/6b/MM3D_Kaepora_Gaebora_Artwork.png"
+            },
+            {
+                "id": 14,
+                "name": "Majora's Mask",
+                "desc": "Main Antagonist",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/e/ef/MM3D_Majora%27s_Mask_Render.png"
+            },
+            {
+                "id": 15,
+                "name": "Cremia & Romani",
+                "desc": "Romani Ranch Managers",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/3/33/MM_Cremia_and_Romani_Artwork.png"
+            },
+            {
+                "id": 16,
+                "name": "Happy Mask Salesman",
+                "desc": "",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/98/MM3D_Happy_Mask_Salesman_Artwork.png"
+            },
+            {
+                "id": 17,
+                "name": "Tingle",
+                "desc": "Son of the Swamp Tourist Center Guide",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/3/36/MM3D_Tingle_Airborne_Artwork.png"
+            }
+        ]
+    },
+    {
+        "title": "The Wind Waker",
+        "npc": [
+            {
+                "id": 18,
+                "name": "King Daphnes Nohansen Hyrule",
+                "desc": "King of Hyrule",
+                "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/10/TWW_Daphnes_Nohansen_Hyrule_Artwork.png"
+            },
+            {
+                "id": 19,
+                "name": "King of Red Lions",
+                "desc": "Talking Boat and Link's Companion",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/3/34/TWWHD_Link_Sailing_Artwork.png"
+            },
+            {
+                "id": 20,
+                "name": "Tetra",
+                "desc": "Leader to a New World",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/3/32/TWWHD_Tetra_Artwork.png"
+            },
+            {
+                "id": 21,
+                "name": "Medli",
+                "desc": "Apprentice Attendant of Valoo. Sage of Earth",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/cf/TWWHD_Medli_Artwork.png"
+            },
+            {
+                "id": 22,
+                "name": "Laruto",
+                "desc": "Former Earth Sage",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/4/4c/TWWHD_Laruto_Artwork.png"
+            },
+            {
+                "id": 23,
+                "name": "Makar",
+                "desc": "Sage of Wind",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/9a/TWWHD_Makar_Artwork.png"
+            },
+            {
+                "id": 24,
+                "name": "Fado",
+                "desc": "Former Wind Sage",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/71/TWWHD_Fado_Artwork.png"
+            },
+            {
+                "id": 25,
+                "name": "Jabun",
+                "desc": "Water Spirit",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/a/a7/TWW_Jabun_Artwork.png"
+            },
+            {
+                "id": 26,
+                "name": "Aryll",
+                "desc": "Link's Younger Sister",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/0/08/TWWHD_Aryll_Artwork.png"
+            }
+        ]
+    },
+    {
+        "title": "Twilight Princess",
+        "npc": [
+            {
+                "id": 27,
+                "name": "Midna",
+                "desc": "Twilight Princess",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/b/b6/TPHD_Midna_Artwork.png"
+            },
+            {
+                "id": 28,
+                "name": "Hero's Spirit",
+                "desc": "Hero of Time",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/cd/TP_Hero%27s_Spirit_Model.png"
+            },
+            {
+                "id": 29,
+                "name": "White Wolf",
+                "desc": "Hero of Time's Lustrous Manifestation",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/5/51/TP_White_Wolf_Model.png"
+            },
+            {
+                "id": 30,
+                "name": "Zant",
+                "desc": "King of Twilight",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/97/TPHD_Zant_Artwork.png"
+            },
+            {
+                "id": 31,
+                "name": "Ordona",
+                "desc": "Ordona Province's Spirit of Light",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/c6/TP_Ordona_Render.png"
+            },
+            {
+                "id": 32,
+                "name": "Faron",
+                "desc": "Faron Province's Spirit of Light",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/7c/TP_Faron_Render.png"
+            },
+            {
+                "id": 33,
+                "name": "Eldin",
+                "desc": "Eldin Province's Spirit of Light",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/f/fe/TP_Eldin_%28Spirit%29_Model.png"
+            },
+            {
+                "id": 34,
+                "name": "Lanayru",
+                "desc": "Lanayru Province's Spirit of Light",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/TPHD_Lanayru_Render.png"
+            }
+        ]
+    },
+    {
+        "title": "Skyward Sword",
+        "npc":
+        [
+            {
+                "id": 35,
+                "name": "Fi",
+                "desc": "Spirit of the Sword",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/e/ed/SS_Fi_Artwork.png"
+            },
+            {
+                "id": 36,
+                "name": "Demise",
+                "desc": "Demon King",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/4/4b/SS_Demise_Render.png"
+            },
+            {
+                "id": 37,
+                "name": "Ghirahim",
+                "desc": "Lord Ghirahim",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/f/fc/SS_Ghirahim_Artwork.png"
+            },
+            {
+                "id": 38,
+                "name": "Groose",
+                "desc": "Link's Personal Rival",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d4/SS_Groose_Artwork.png"
+            },
+            {
+                "id": 39,
+                "name": "Impa",
+                "desc": "Servant of the Goddess",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/8/8d/SS_Impa_Artwork.png"
+            },
+            {
+                "id": 40,
+                "name": "Gaepora",
+                "desc": "Zelda's Father",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/74/SS_Gaepora_Artwork.png"
+            },
+            {
+                "id": 41,
+                "name": "Levias",
+                "desc": "Great Spirit of the Sky",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/2/21/SSHD_Levias_Model.png"
+            },
+            {
+                "id": 42,
+                "name": "Faron",
+                "desc": "Water Dragon",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d1/SSHD_Faron_Model.png"
+            },
+            {
+                "id": 43,
+                "name": "Eldin",
+                "desc": "Fire Dragon",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/db/SSHD_Eldin_Model.png"
+            },
+            {
+                "id": 44,
+                "name": "Lanayru",
+                "desc": "Thunder Dragon",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d3/SSHD_Lanayru_Model.png"
+            }
+        ]
+    },
+    {
+        "title":"Breath of The Wild",
+        "npc":
+        [
+            {
+                "id": 45,
+                "name":"King Rhoam",
+                "desc":"The Last King of Hyrule",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/HWAoC_King_Rhoam_Artwork.png"
+            },
+            {
+                "id": 46,
+                "name":"Purah",
+                "desc":"Director of the Hateno Ancient Tech Lab",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/9/9b/TotK_Purah_Artwork.png"
+            },
+            {
+                "id": 47,
+                "name": "Impa",
+                "desc":"Lady Impa. The Sheikah Leader",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/c/ca/TotK_Impa_Artwork.png"
+            },
+            {
+                "id": 48,
+                "name":"Paya",
+                "desc":"Lady Paya. Granddaughter of Lady Impa",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/1/19/TotK_Paya_Artwork.png"
+            },
+            {
+                "id": 49,
+                "name":"Robbie",
+                "desc":"Royal Ancient Lab Director",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/b/bd/TotK_Robbie_Artwork.png"
+            },
+            {
+                "id": 50,
+                "name":"The Great Deku Tree",
+                "desc":"Great Spirit of Korok Forest",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/98/TotK_Great_Deku_Tree_Artwork.png"
+            },
+            {
+                "id": 51,
+                "name":"Mipha",
+                "desc":"Princess Mipha. The Zora Champion",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/f/f0/BotW_Mipha_Artwork.png"
+            },
+            {
+                "id": 52,
+                "name":"Daruk",
+                "desc":"Lord Daruk. The Goron Champion",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/f/f3/BotW_Daruk_Artwork.png"
+            },
+            {
+                "id": 53,
+                "name":"Revali",
+                "desc":"Master Revali. The Rito Champion",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/3/31/BotW_Revali_Artwork.png"
+            },
+            {
+                "id": 54,
+                "name":"Urbosa",
+                "desc":"Lady Urbosa. The Gerudo Champion",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/c/cf/BotW_Urbosa_Artwork.png"
+            },
+            {
+                "id": 55,
+                "name":"Master Kohga",
+                "desc":"Leader of the Yiga Clan",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/c/c8/TotK_Master_Kohga_Artwork.png"
+            }
+        ]
+    },
+    {
+        "title": "Tears of the Kingdom",
+        "npc":
+        [
+            {
+                "id": 56,
+                "name":"King Rauru",
+                "desc":"First King of Hyrule. King of Light",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/d/df/TotK_Rauru_Artwork.png"
+            },
+            {
+                "id": 57,
+                "name":"Queen Sonia",
+                "desc":"First Queen of Hyrule",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d6/TotK_Queen_Sonia_Artwork.png"
+            },
+            {
+                "id": 58,
+                "name":"Mineru",
+                "desc":"King Rauru's Sister. Sage of Spirit",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5c/Mineru.png"
+            },
+            {
+                "id": 59,
+                "name":"Riju",
+                "desc":"Decendant of Urbosa. Sage of Lightning",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b1/Riju_Sage.png"
+            },
+            {
+                "id": 60,
+                "name":"Sidon",
+                "desc":"Prince of the Zora. Sage of Water",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6c/Sidon_Sage.png"
+            },
+            {
+                "id": 61,
+                "name":"Tulin",
+                "desc":"Son of Rito Elder. Sage of Wind",
+                "img":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cb/Tulin_Sage.png"
+            },
+            {
+                "id": 62,
+                "name":"Yunobo",
+                "desc":"Decendant of Daruk. Sage of Fire",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/1/1c/TotK_Yunobo_Artwork.png"
+            },
+            {
+                "id": 63,
+                "name":"Tauro",
+                "desc":"Zonai Survey Team Leader",
+                "img":"https://cdn.wikimg.net/en/zeldawiki/images/a/a6/TotK_Tauro_Artwork.png"
+            }
+        ]
+    }
+]
