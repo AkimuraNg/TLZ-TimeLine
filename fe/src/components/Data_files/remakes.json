@@ -1,162 +1,74 @@
 [
     {
         "id": 1,
-        "Title": "The Legend of Zelda",
-        "Time": "1986 - 1987",
-        "Content": "The first installment of The Legend of Zelda series. Originally came out in 1986 for Famicom Disk System in Japan and internationally on the NES in 1987.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/0c/TLoZ_NES_NA_Box.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda"
+        "Title": "Link's Awakening DX",
+        "Time": "1998",
+        "Content": "An updated re-release of Link's Awakening with several new additions, the most notable of which being the entire game is now in color. It was released just after Ocarina of Time.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/8/8b/LADX_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_DX"
     },
     {
         "id": 2,
-        "Title": "The Adventure of Link",
-        "Time": "1987 - 1988",
-        "Content": "the second main installment of The Legend of Zelda series and the direct sequel to The Legend of Zelda. Originally released on the Famicom Disk System in Japan in 1987 and eventually on the NES in North America and Europe in 1988.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/3/33/TAoL_NA_NES_Box_Artwork.png",
-        "Link": "https://zeldawiki.wiki/wiki/Zelda_II:_The_Adventure_of_Link"
+        "Title": "Ocarina of Time Master Quest",
+        "Time": "2002",
+        "Content": "A reworked version and game mode of Ocarina of Time. Master Quest contains largely the same content as the original Ocarina of Time, but with redesigned, more difficult Dungeons akin to a Second Quest.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/72/OoT_Master_Quest_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_Master_Quest"
     },
     {
         "id": 3,
-        "Title": "A Link to the Past",
-        "Time": "1991 - 1992",
-        "Content": "The third main installment of The Legend of Zelda series, and the first and only title for the Super Nintendo Entertainment System, released in 1991 in Japan and 1992 in the United States.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/7b/ALttP_English_Logo_2.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past"
+        "Title": "Ocarina of Time 3D",
+        "Time": "2011",
+        "Content": "This is a Nintendo 3DS remake of the Nintendo 64 game, Ocarina of Time. It was officially announced in E3 2010, where only a couple of screenshots of the introduction were released.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/14/OoT3D_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_3D"
     },
     {
         "id": 4,
-        "Title": "Link's Awakening",
-        "Time": "1993",
-        "Content": "The fourth main installment of The Legend of Zelda series. It is the first title in the series to be released on handheld system, and the only Zelda title on the original Game Boy. In 2009, Guinness World Records named it the 42nd most influential video game of all time.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/f/fd/LA_English_Logo_2.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Link%27s_Awakening"
+        "Title": "Four Swords Anniversary Edition",
+        "Time": "2011",
+        "Content": "This is a DSiWare remaster of the Game Boy Advance game, Four Swords, also available for the Nintendo 3DS. The remaster includes the full game of Four Swords. The remaster features several changes and additions not present in the original, including a single-player mode.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/6/69/FSAE_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Four_Swords_Anniversary_Edition"
     },
     {
         "id": 5,
-        "Title": "Ocarina of Time",
-        "Time": "1998",
-        "Content": "The fifth main installment of The Legend of Zelda series and the first to be released for the Nintendo 64. Is listed among the greatest video games ever created by numerous websites and magazines. Released in the United States on November 23, 1998, it was the first game in The Legend of Zelda series that was visually displayed in 3D.",
-        "Image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/48/OoT_NA_Box.jpg",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+        "Title": "The Wind Waker HD",
+        "Time": "2013",
+        "Content": "This is a Wii U enhanced remaster of the Nintendo GameCube game, The Wind Waker. It was officially announced via a Nintendo Direct webcast on January 23, 2013. Further information on the game was revealed at E3 2013 and in subsequent Nintendo Directs.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/8/80/TWWHD_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD"
     },
     {
         "id": 6,
-        "Title": "Majora's Mask",
-        "Time": "2000",
-        "Content": "The sixth main installment of The Legend of Zelda series, first released on the Nintendo 64 in 2000. Unique among the series, the game includes a time system that spans three days, and this cycle must be reset periodically to progress through the game. Majora's Mask is the sequel to the first 3D Zelda game, Ocarina of Time.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/MM_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"
+        "Title": "Majora's Mask 3D",
+        "Time": "2015",
+        "Content": "This is a Nintendo 3DS remake of the Nintendo 64 game, Majora's Mask. It was officially announced during a Nintendo Direct on November 5, 2014, and is directly comparable to Ocarina of Time 3D.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/c5/MM3D_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Majora%27s_Mask_3D"
     },
     {
         "id": 7,
-        "Title": "Oracle of Seasons",
-        "Time": "2001",
-        "Content": "Is one of two The Legend of Zelda titles released for the Game Boy Color, the other being Oracle of Ages, both representing the seventh and eighth main installments of the series.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/OoS_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons"
+        "Title": "Twilight Princess HD",
+        "Time": "2016",
+        "Content": "This is a Wii U enhanced remaster of the Nintendo GameCube and Wii game, Twilight Princess. It was officially announced via a Nintendo Direct webcast on November 12, 2015 and was released on March 4, 2016. It is the second remaster of a Zelda title on the Wii U following The Wind Waker HD. A bundle set containing the Wolf Link amiibo was also released.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/01/TPHD_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Twilight_Princess_HD"
     },
     {
         "id": 8,
-        "Title": "Oracle of Ages",
-        "Time": "2001",
-        "Content": "Is one of two The Legend of Zelda titles released for the Game Boy Color, the other being Oracle of Seasons, both representing the seventh and eighth main installments of the series.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/eb/OoA_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Oracle_of_Ages"
+        "Title": "Link's Awakening (Nintendo Switch ver.)",
+        "Time": "2019",
+        "Content": "s a Nintendo Switch remake of the Game Boy game, Link's Awakening. It was officially announced during a Nintendo Direct on February 13, 2019, and was released on September 20, 2019.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/70/LANS_English_Logo_2.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(Nintendo_Switch)"
     },
     {
         "id": 9,
-        "Title": "Four Swords",
-        "Time": "2002",
-        "Content": "The ninth main installment of The Legend of Zelda series, released alongside A Link to the Past for the Game Boy Advance as a package known as A Link to the Past & Four Swords. It was the first multiplayer The Legend of Zelda game to be released. The game introduced Vaati as a new main boss for the franchise.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/9/95/FS_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Four_Swords"
-    },
-    {
-        "id": 10,
-        "Title": "The Wind Waker",
-        "Time": "2003",
-        "Content": "The tenth main installment of The Legend of Zelda series. It is the first Zelda game for the Nintendo GameCube & the sixth game in the series to be released on a Home console. It was released in Japan on December 13, 2002, in North America on March 24, 2003, in South Korea on April 16, 2003, in Europe on May 2, 2003 and in Australia on May 7, 2003.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/TWW_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_The_Wind_Waker"
-    },
-    {
-        "id": 11,
-        "Title": "Four Swords Adventure",
-        "Time": "2004",
-        "Content": "The eleventh main installment of The Legend of Zelda series. It incorporates a graphical style that combines Four Swords and A Link to the Past. It is the only console Zelda title to date to incorporate multiplayer elements into its main campaign. Also the first game in the series to allow a single player to control more than one Link at once, and it utilizes various methods to allow the player to make use of the four Links, such as formations.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e4/FSA_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Four_Swords_Adventures"
-    },
-    {
-        "id": 12,
-        "Title": "The Minish Cap",
-        "Time": "2004 - 2005",
-        "Content": "The twelfth main installment of The Legend of Zelda series. It was released for the Game Boy Advance in 2004.  The Minish Cap features the fully explorable land of Hyrule, although it can be viewed from the eyes of a human or the eyes of a Minish, a race of tiny people and an alternate form that Link can transform into.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/TMC_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_The_Minish_Cap"
-    },
-    {
-        "id": 13,
-        "Title": "Twilight Princess",
-        "Time": "2006",
-        "Content": "The thirteenth main installment of The Legend of Zelda series, released for both the Nintendo GameCube and Wii. It is the first, and so far only, Zelda game to be rated T by ESRB, and the first to be rated 12+ by PEGI, with rating descriptors including 'animated blood' and 'fantasy violence'. Released in America on November 19, 2006",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/16/TP_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Twilight_Princess"
-    },
-    {
-        "id": 14,
-        "Title": "Phantom Hourglass",
-        "Time": "2007",
-        "Content": "The fourteenth main installment of The Legend of Zelda series. It is the first The Legend of Zelda game for the Nintendo DS and a direct sequel to The Wind Waker.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/cc/PH_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Phantom_Hourglass"
-    },
-    {
-        "id": 15,
-        "Title": "Spirit Tracks",
-        "Time": "2009",
-        "Content": "The fifteenth main installment of The Legend of Zelda series. It is the second Zelda game for the Nintendo DS, following the events of Phantom Hourglass",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/ST_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Spirit_Tracks"
-    },
-    {
-        "id": 16,
-        "Title": "Skyward Sword",
-        "Time": "2011",
-        "Content": "The sixteenth main installment of The Legend of Zelda series. It is the first The Legend of Zelda game created specifically with the Wii in mind, and requires Wii Motion Plus.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/8/82/SS_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Skyward_Sword"
-    },
-    {
-        "id": 17,
-        "Title": "A Link Between Worlds",
-        "Time": "2013",
-        "Content": "the seventeenth main installment of The Legend of Zelda series. It is the first Zelda title developed specifically for the Nintendo 3DS and an indirect sequel to A Link to the Past, featuring the same version of Hyrule but new characters and gameplay elements.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/ca/ALBW_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds"
-    },
-    {
-        "id": 18,
-        "Title": "Tri Force Heroes",
-        "Time": "2015",
-        "Content": "The eighteenth main installment of The Legend of Zelda series. The game was released for the Nintendo 3DS on October 23, 2015 in North America and Europe, October 24 in Australia, and October 22 in Japan. It was first revealed during E3 2015 on June 16.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e0/TFH_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Tri_Force_Heroes"
-    },
-    {
-        "id": 19,
-        "Title": "Breath of the Wild",
-        "Time": "2017",
-        "Content": "The nineteenth main installment of The Legend of Zelda series. It was released simultaneously worldwide for the Wii U and Nintendo Switch on March 3, 2017.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/06/BotW_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
-    },
-    {
-        "id": 20,
-        "Title": "Tears of the Kingdom",
-        "Time": "2023",
-        "Content": " The twentieth main installment in The Legend of Zelda series. The direct sequel to 2017's Breath of the Wild, the game was released worldwide on May 12, 2023 on the Nintendo Switch.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/4/4c/TotK_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+        "Title": "Skyward Sword HD",
+        "Time": "2021",
+        "Content": "This is a remaster of the 2011 game Skyward Sword released on the Nintendo Switch. It was officially announced via a Nintendo Direct webcast on February 17, 2021 and was released on July 16, 2021. The remaster features enhanced graphics and improved quality-of-life features.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e9/SSHD_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD"
     }
 ]

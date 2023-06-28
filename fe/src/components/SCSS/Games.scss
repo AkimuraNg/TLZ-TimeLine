@@ -80,6 +80,16 @@
             top: 2%
         }
     }
+    .spinoffs{
+        p{
+            font-size: 14px;
+        }
+        .carousel-control-prev,
+        .carousel-control-next {
+            height: 12%;
+            top: 12%
+        }
+    }
 }
 
 @media (min-width: 1440px) {

@@ -65,7 +65,7 @@ const Game = () => {
                                             <h4 className='card-title'> {post.Title}</h4>
                                             <span>{post.Time}</span>
                                             <p className='card-body'>{post.Content}</p>
-                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more about the game</Link>
+                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -84,7 +84,7 @@ const Game = () => {
                 </button>
             </section>
 
-            <section className='remakes' data-aos='zoom-in-down' data-aos-duration='2000'> 
+            <section className='remakes' data-aos='zoom-in-down' data-aos-duration='2000'>
                 <h3>Remakes</h3>
                 <div id='carouselRemakes' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
@@ -98,7 +98,7 @@ const Game = () => {
                                             <h4 className='card-title'> {post.Title}</h4>
                                             <span>{post.Time}</span>
                                             <p className='card-body'>{post.Content}</p>
-                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more about the game</Link>
+                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,12 @@ const Game = () => {
             </section>
 
             <section className='spinoffs' data-aos='zoom-in-right' data-aos-duration='2000'>
-                <h3>Spin-offs</h3>
+                <div>
+                    <h3>Spin-offs</h3>
+                    <p>Here listed some well-known spin-offs of The Legend of Zeelda series.
+                        <br /> For more information about other spin-offs, click <Link to='https://zeldawiki.wiki/wiki/Main_Page' target='_blank' style={{ color: 'white' }}> here</Link>.
+                    </p>
+                </div>
                 <div id='carouselSpinoffs' className='carousel slide carousel-fade'>
                     <div className='carousel-inner'>
                         {spinoffs.map((post, index) => {
@@ -131,7 +136,7 @@ const Game = () => {
                                             <h4 className='card-title'> {post.Title}</h4>
                                             <span>{post.Time}</span>
                                             <p className='card-body'>{post.Content}</p>
-                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more about the game</Link>
+                                            <Link to={post.Link} className='btn btn-outline-light' target='_blank'>Read more</Link>
                                         </div>
                                     </div>
                                 </div>

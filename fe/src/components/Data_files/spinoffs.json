@@ -1,162 +1,50 @@
 [
     {
         "id": 1,
-        "Title": "The Legend of Zelda",
-        "Time": "1986 - 1987",
-        "Content": "The first installment of The Legend of Zelda series. Originally came out in 1986 for Famicom Disk System in Japan and internationally on the NES in 1987.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/0c/TLoZ_NES_NA_Box.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda"
+        "Title": "Link's Crossbow Training",
+        "Time": "2007",
+        "Content": "Is a spin-off of the The Legend of Zelda series for the Nintendo Wii Console. The game ships with the Wii Zapper, and was created to demonstrate the use of the Wii Zapper. Link's Crossbow Training takes place in the Hyrule from Twilight Princess at an unknown time, where Link must pass a series of tests to perfect his marksmanship with the Crossbow.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/08/LCT_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/Link%27s_Crossbow_Training"
     },
     {
         "id": 2,
-        "Title": "The Adventure of Link",
-        "Time": "1987 - 1988",
-        "Content": "the second main installment of The Legend of Zelda series and the direct sequel to The Legend of Zelda. Originally released on the Famicom Disk System in Japan in 1987 and eventually on the NES in North America and Europe in 1988.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/3/33/TAoL_NA_NES_Box_Artwork.png",
-        "Link": "https://zeldawiki.wiki/wiki/Zelda_II:_The_Adventure_of_Link"
+        "Title": "My Nintendo Picross: The Legend of Zelda: Twilight Princess",
+        "Time": "2016",
+        "Content": "A downloadable puzzle game for the Nintendo 3DS. It is a crossover with the Picross series with themes based on Twilight Princess.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/6/67/MNPTP_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/My_Nintendo_Picross:_The_Legend_of_Zelda:_Twilight_Princess"
     },
     {
         "id": 3,
-        "Title": "A Link to the Past",
-        "Time": "1991 - 1992",
-        "Content": "The third main installment of The Legend of Zelda series, and the first and only title for the Super Nintendo Entertainment System, released in 1991 in Japan and 1992 in the United States.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/7b/ALttP_English_Logo_2.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past"
+        "Title": "Hyrule Warriors",
+        "Time": "2014",
+        "Content": "A Legend of Zelda spin-off game for the Wii U system. It combines the world of The Legend of Zelda with the action of Koei Tecmo's Dynasty Warriors series and was developed by Team Ninja and Omega Force.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/f/f9/HW_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/Hyrule_Warriors"
     },
     {
         "id": 4,
-        "Title": "Link's Awakening",
-        "Time": "1993",
-        "Content": "The fourth main installment of The Legend of Zelda series. It is the first title in the series to be released on handheld system, and the only Zelda title on the original Game Boy. In 2009, Guinness World Records named it the 42nd most influential video game of all time.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/f/fd/LA_English_Logo_2.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Link%27s_Awakening"
+        "Title": "Hyrule Warriors Legends",
+        "Time": "2016",
+        "Content": "A spin-off for the Nintendo 3DS, combining the world of The Legend of Zelda series with the action of Koei Tecmo's Dynasty Warriors series. The game is a port and a new version of Hyrule Warriors, featuring new characters and other mechanical changes.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/a/ab/HWL_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/Hyrule_Warriors_Legends"
     },
     {
         "id": 5,
-        "Title": "Ocarina of Time",
-        "Time": "1998",
-        "Content": "The fifth main installment of The Legend of Zelda series and the first to be released for the Nintendo 64. Is listed among the greatest video games ever created by numerous websites and magazines. Released in the United States on November 23, 1998, it was the first game in The Legend of Zelda series that was visually displayed in 3D.",
-        "Image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/48/OoT_NA_Box.jpg",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+        "Title": "Hyrule Warriors: Definitive Edition",
+        "Time": "2018",
+        "Content": "A port and adaptation of Hyrule Warriors and Hyrule Warriors Legends for the Nintendo Switch. It includes all previously released content from both games, including every map, character, mission, and downloadable content.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/8/8c/HWDE_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/Hyrule_Warriors:_Definitive_Edition"
     },
     {
         "id": 6,
-        "Title": "Majora's Mask",
-        "Time": "2000",
-        "Content": "The sixth main installment of The Legend of Zelda series, first released on the Nintendo 64 in 2000. Unique among the series, the game includes a time system that spans three days, and this cycle must be reset periodically to progress through the game. Majora's Mask is the sequel to the first 3D Zelda game, Ocarina of Time.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/MM_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"
-    },
-    {
-        "id": 7,
-        "Title": "Oracle of Seasons",
-        "Time": "2001",
-        "Content": "Is one of two The Legend of Zelda titles released for the Game Boy Color, the other being Oracle of Ages, both representing the seventh and eighth main installments of the series.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/OoS_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons"
-    },
-    {
-        "id": 8,
-        "Title": "Oracle of Ages",
-        "Time": "2001",
-        "Content": "Is one of two The Legend of Zelda titles released for the Game Boy Color, the other being Oracle of Seasons, both representing the seventh and eighth main installments of the series.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/eb/OoA_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Oracle_of_Ages"
-    },
-    {
-        "id": 9,
-        "Title": "Four Swords",
-        "Time": "2002",
-        "Content": "The ninth main installment of The Legend of Zelda series, released alongside A Link to the Past for the Game Boy Advance as a package known as A Link to the Past & Four Swords. It was the first multiplayer The Legend of Zelda game to be released. The game introduced Vaati as a new main boss for the franchise.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/9/95/FS_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Four_Swords"
-    },
-    {
-        "id": 10,
-        "Title": "The Wind Waker",
-        "Time": "2003",
-        "Content": "The tenth main installment of The Legend of Zelda series. It is the first Zelda game for the Nintendo GameCube & the sixth game in the series to be released on a Home console. It was released in Japan on December 13, 2002, in North America on March 24, 2003, in South Korea on April 16, 2003, in Europe on May 2, 2003 and in Australia on May 7, 2003.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/7/73/TWW_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_The_Wind_Waker"
-    },
-    {
-        "id": 11,
-        "Title": "Four Swords Adventure",
-        "Time": "2004",
-        "Content": "The eleventh main installment of The Legend of Zelda series. It incorporates a graphical style that combines Four Swords and A Link to the Past. It is the only console Zelda title to date to incorporate multiplayer elements into its main campaign. Also the first game in the series to allow a single player to control more than one Link at once, and it utilizes various methods to allow the player to make use of the four Links, such as formations.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e4/FSA_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Four_Swords_Adventures"
-    },
-    {
-        "id": 12,
-        "Title": "The Minish Cap",
-        "Time": "2004 - 2005",
-        "Content": "The twelfth main installment of The Legend of Zelda series. It was released for the Game Boy Advance in 2004.  The Minish Cap features the fully explorable land of Hyrule, although it can be viewed from the eyes of a human or the eyes of a Minish, a race of tiny people and an alternate form that Link can transform into.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/a/aa/TMC_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_The_Minish_Cap"
-    },
-    {
-        "id": 13,
-        "Title": "Twilight Princess",
-        "Time": "2006",
-        "Content": "The thirteenth main installment of The Legend of Zelda series, released for both the Nintendo GameCube and Wii. It is the first, and so far only, Zelda game to be rated T by ESRB, and the first to be rated 12+ by PEGI, with rating descriptors including 'animated blood' and 'fantasy violence'. Released in America on November 19, 2006",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/16/TP_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Twilight_Princess"
-    },
-    {
-        "id": 14,
-        "Title": "Phantom Hourglass",
-        "Time": "2007",
-        "Content": "The fourteenth main installment of The Legend of Zelda series. It is the first The Legend of Zelda game for the Nintendo DS and a direct sequel to The Wind Waker.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/cc/PH_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Phantom_Hourglass"
-    },
-    {
-        "id": 15,
-        "Title": "Spirit Tracks",
-        "Time": "2009",
-        "Content": "The fifteenth main installment of The Legend of Zelda series. It is the second Zelda game for the Nintendo DS, following the events of Phantom Hourglass",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/1/1d/ST_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Spirit_Tracks"
-    },
-    {
-        "id": 16,
-        "Title": "Skyward Sword",
-        "Time": "2011",
-        "Content": "The sixteenth main installment of The Legend of Zelda series. It is the first The Legend of Zelda game created specifically with the Wii in mind, and requires Wii Motion Plus.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/8/82/SS_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Skyward_Sword"
-    },
-    {
-        "id": 17,
-        "Title": "A Link Between Worlds",
-        "Time": "2013",
-        "Content": "the seventeenth main installment of The Legend of Zelda series. It is the first Zelda title developed specifically for the Nintendo 3DS and an indirect sequel to A Link to the Past, featuring the same version of Hyrule but new characters and gameplay elements.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/c/ca/ALBW_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds"
-    },
-    {
-        "id": 18,
-        "Title": "Tri Force Heroes",
-        "Time": "2015",
-        "Content": "The eighteenth main installment of The Legend of Zelda series. The game was released for the Nintendo 3DS on October 23, 2015 in North America and Europe, October 24 in Australia, and October 22 in Japan. It was first revealed during E3 2015 on June 16.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/e/e0/TFH_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Tri_Force_Heroes"
-    },
-    {
-        "id": 19,
-        "Title": "Breath of the Wild",
-        "Time": "2017",
-        "Content": "The nineteenth main installment of The Legend of Zelda series. It was released simultaneously worldwide for the Wii U and Nintendo Switch on March 3, 2017.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/0/06/BotW_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
-    },
-    {
-        "id": 20,
-        "Title": "Tears of the Kingdom",
-        "Time": "2023",
-        "Content": " The twentieth main installment in The Legend of Zelda series. The direct sequel to 2017's Breath of the Wild, the game was released worldwide on May 12, 2023 on the Nintendo Switch.",
-        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/4/4c/TotK_English_Logo.png",
-        "Link": "https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+        "Title": "Hyrule Warriors: Age of Calamity",
+        "Time": "2020",
+        "Content": "A spin-off game of The Legend of Zelda series. It takes place in the world of Breath of the Wild in a different timeline during the second Great Calamity due to the time-traveling Terrako.",
+        "Image": "https://cdn.wikimg.net/en/zeldawiki/images/9/92/HWAoC_English_Logo.png",
+        "Link": "https://zeldawiki.wiki/wiki/Hyrule_Warriors:_Age_of_Calamity"
     }
 ]
