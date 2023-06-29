@@ -1,11 +1,99 @@
-.Timeline{
-    h1{
+.Timeline {
+    h1 {
         font-family: 'Regular';
         text-transform: uppercase;
     }
 
-    img{
-        width: 400px;
-        height: 400px;
+    h2 {
+        font-family: 'Regular';
+        text-transform: uppercase;
+        padding-top: 40px;
+        border-bottom: 1px solid white;
+        font-size: 18px;
+    }
+
+    span {
+        font-style: italic;
+    }
+
+    .era {
+
+        p {
+            text-align: justify;
+            font-size: 16px;
+        }
+
+        .timeline-item-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            .card {
+                width: 18rem;
+                margin: 20px;
+                background: transparent;
+                color: white;
+
+                h3 {
+                    font-family: 'Regular';
+                    text-transform: uppercase;
+                    font-size: 16px;
+                }
+
+                p {
+                    text-align: center;
+                }
+
+                img {
+                    border-radius: 8px;
+                }
+            }
+        }
+    }
+
+}
+
+@media (min-width: 768px) {
+    .Timeline {
+        h2 {
+            font-size: 28px;
+        }
+
+        .era {
+            .timeline-item-content {
+                flex-direction: row;
+                flex-wrap: wrap;
+
+                .card {
+                    width: 20rem;
+
+                    h3 {
+                        font-size: 20px
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 1440px) {
+    .Timeline {
+        h2 {
+            font-size: 30px;
+        }
+
+        .era {
+            p {
+                font-size: 20px;
+            }
+
+            .timeline-item-content {
+                .card {
+                    width: 24rem;
+
+                }
+            }
+        }
     }
 }

@@ -1,0 +1,152 @@
+[
+    {
+        "era": "Hylia and the Hero of Time",
+        "edesc":"The beginning of the timeline. Before time began, the three Golden Goddesses descended upon the chaos that was Hyrule. Din, the Goddess of Power, created the earth. Nayru, the Goddess of Wisdom, bestowed order upon the world. Farore, the Goddess of Courage, created life. Their labor complete, the goddesses departed for the heavens. They left behind the Triforce and it was entrusted to the goddess Hylia during the Era of the Goddess Hylia.",
+        "events": [
+            {
+                "id": 1,
+                "title": "Skyward Sword",
+                "desc":"Sky Era",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/2/2b/SS_Blue_Character_Artwork.png"
+            },
+            {
+                "id": 2,
+                "title": "The Minish Cap",
+                "desc":"The Minish Legend - Force Era",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/9/9f/TMC_Minish_Village_Artwork.png"
+            },
+            {
+                "id": 3,
+                "title": "Four Swords",
+                "desc":"Force Era",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/b/b9/FS_Four_Sword_Sanctuary_Artwork.png"
+            },
+            {
+                "id": 4,
+                "title": "Ocarina of Time",
+                "desc":"The Hero of Time Era",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/e/e3/OoT_Cast_Artwork.png"
+            }
+        ]
+    },
+    {
+        "era":"Fallen Hero Timeline",
+        "edesc":"An alternate timeline in which Ganondorf defeats the Hero of Time in battle (Ocarina of Time). Ganondorf takes Link's Triforce of Courage and Zelda's Triforce of Wisdom, thus gaining the power of the complete Triforce. As a last resort, the Seven Sages, led by Princess Zelda, seal Ganon and the Triforce within the corrupted Sacred Realm, now the Dark World.",
+        "events":[
+            {
+                "id": 5,
+                "title": "A Link to the Past",
+                "desc":"Era of Light and Dark",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/8/8c/ALttP_Link_Exploring_A_Dungeon_Artwork.png"
+            },
+            {
+                "id": 6,
+                "title": "Link's Awakening",
+                "desc":"Era of Light and Dark",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/f/ff/LA_Artwork.png"
+            },
+            {
+                "id": 7,
+                "title": "Oracle of Seasons",
+                "desc":"Era of Light and Dark",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/5/57/OoS_Artwork_2.png"
+            },
+            {
+                "id": 8,
+                "title": "Oracle of Ages",
+                "desc":"Era of Light and Dark",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/e/ee/OoA_Artwork_2.png"
+            },
+            {
+                "id": 9,
+                "title": "A Link Between Worlds",
+                "desc":"The Triforce Seperates",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/f/f0/ALBW_Artwork.jpg"
+            },
+            {
+                "id": 10,
+                "title": "Tri Force Heroes",
+                "desc":"The Triforce Seperates",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/78/TFH_Illustration.jpg"
+            },
+            {
+                "id": 11,
+                "title": "The Legend of Zelda",
+                "desc":"Era of Decline",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d3/TLoZ_Link_Before_Hyrule_Artwork.png"
+            },
+            {
+                "id": 12,
+                "title": "The Adventure of Link",
+                "desc":"Era of Decline",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/5/56/TAoL_Link_in_Hyrule_Artwork.png"
+            }
+        ]
+    },
+    {
+        "era":"Child Timeline",
+        "edesc":"The branch of the timeline that follows Link back in time at the end of Ocarina of Time. The young hero warns the Royal Family of Ganondorf's treachery during the Return of the Hero, thus averting his rise to power and thwarting him from the start. Link leaves Hyrule on Epona to search for Navi. Years later, Ganondorf is sealed within the Twilight Realm.",
+        "events":[
+            {
+                "id": 13,
+                "title": "Majora's Mask",
+                "desc":"",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d9/MM_Artwork.png"
+            },
+            {
+                "id": 14,
+                "title": "Twilight Princess",
+                "desc":"The Failed Execution of Ganondorf - Twilight Era",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/a/ac/TP_Artwork.png"
+            },
+            {
+                "id": 15,
+                "title": "Four Swords Adventure",
+                "desc":"",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d1/FSA_Artwork.png"
+            }
+        ]
+    },
+    {
+        "era": "Adult Timeline",
+        "edesc":"The branch of the timeline in which Link has disappeared from Hyrule after being sent back in time at the end of Ocarina of Time. In this timeline, Ganondorf is sealed within the void of the corrupted Sacred Realm along with the Triforce of Power. The Triforce of Wisdom remains in Zelda's possession. When Link goes back in time, the Triforce of Courage is left behind, shattered into eight shards scattered across Hyrule. Zelda returns the Master Sword to the Temple of Time.",
+        "events":[
+            {
+                "id": 16,
+                "title": "The Wind Waker",
+                "desc":"Era of the Great Sea",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/e/ed/TWW_World_Artwork.png"
+            },
+            {
+                "id": 17,
+                "title": "Phantom Hourglass",
+                "desc":"Era of the Great Voyage",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/1/11/PHCoverArt.jpg"
+            },
+            {
+                "id": 18,
+                "title": "Spirit Tracks",
+                "desc":"Era of Hyrule's Rebirth",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/8/88/ST_Key_Artwork.jpg"
+            }
+        ]
+    },
+    {
+        "era": "The Great Calamity",
+        "edesc":"Take place during an era long after the events of earlier games have become myths. It is impossible to tell which myths are historical fact and which are mere fairy tale. Hyrule is reestablished the first Queen of Hyrule was Sonia, who together with her husband, the first King Rauru of the Zonai, founded the kingdom.",
+        "events":[
+            {
+                "id": 19,
+                "title": "Breath of the Wild",
+                "desc":"",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/7/7c/BotW_Link_Gazing_at_Hyrule_Artwork.jpg"
+            },
+            {
+                "id": 20,
+                "title": "Tears of the Kingdom",
+                "desc":"",
+                "img": "https://cdn.wikimg.net/en/zeldawiki/images/d/d7/TotK_Key_Artwork.jpg"
+            }
+        ]
+    }
+]

@@ -14,35 +14,38 @@ const NPC = () => {
     };
 
     return (
-        <div className='npc' data-aos='zoom-in' data-aos-duration='1200'>
-            <h1>NPC</h1>
-            <p>Nominated NPCs throughout the series are listed here.</p>
+        <div className='npc'>
+            <h1 data-aos='zoom-in-down' data-aos-duration='1000'>NPC</h1>
+            <p data-aos='zoom-in-down' data-aos-delay='500' data-aos-duration='1000'>Nominated NPCs throughout the series are listed here.</p>
 
-            {npcData.map((category, index) => (
-                <div key={index}>
-                    <h3>
-                        {category.title}
-                        <span>
-                            <button type='button' onClick={() => toggleShow(index)}>
-                                {show[index] ? <BiChevronsUp /> : <BiChevronsDown />}
-                            </button>
-                        </span>
-                    </h3>
-                    {show[index] && (
-                        <section className='data'>
-                            {category.npc.map((npc) => (
-                                <div className='card' key={npc.id} data-aos='fade-down' data-aos-duration='800'>
-                                    <img className='card-img-top' src={npc.img} alt='npc' />
-                                    <div className='card-content'>
-                                        <h4 className='card-title'>{npc.name}</h4>
-                                        <p className='card-text'>{npc.desc}</p>
+            <div data-aos='zoom-out' data-aos-delay='800' data-aos-duration='2000'>
+                {npcData.map((category, index) => (
+                    <div key={index}>
+                        <h3>
+                            {category.title}
+                            <span>
+                                <button type='button' onClick={() => toggleShow(index)}>
+                                    {show[index] ? <BiChevronsUp /> : <BiChevronsDown />}
+                                </button>
+                            </span>
+                        </h3>
+                        {show[index] && (
+                            <section className='data'>
+                                {category.npc.map((npc) => (
+                                    <div className='card' key={npc.id} data-aos='fade-down' data-aos-duration='800'>
+                                        <img className='card-img-top' src={npc.img} alt='npc' />
+                                        <div className='card-content'>
+                                            <h4 className='card-title'>{npc.name}</h4>
+                                            <p className='card-text'>{npc.desc}</p>
+                                        </div>
                                     </div>
-                                </div>
-                            ))}
-                        </section>
-                    )}
-                </div>
-            ))}
+                                ))}
+                            </section>
+                        )}
+                    </div>
+                ))}
+            </div>
+
         </div>
     );
 };

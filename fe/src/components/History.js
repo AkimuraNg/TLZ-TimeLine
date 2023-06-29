@@ -4,8 +4,8 @@ import { GiTriforce } from 'react-icons/gi'
 
 const History = () => {
     return (
-        <div className='History' data-aos='fade-in' data-aos-duration='2000'>
-            <h1>THE HISTORY OF HYRULE</h1>
+        <div className='History' >
+            <h1 data-aos='zoom-in-down' data-aos-duration='1000'>THE HISTORY OF HYRULE</h1>
             <section className='beginning' data-aos='fade-in' data-aos-delay='500' data-aos-duration='3000'>
                 <h2> <GiTriforce/> GOLDEN GODDESSES <GiTriforce/></h2>
                 <p>The Golden Goddesses are a recurring trio of deities: Din, Nayru and Farore. They are the chief gods and creators of the land that becomes the Hyrule and the extended world that it resides in.</p>

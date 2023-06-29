@@ -9,7 +9,7 @@ import { Route, Routes } from 'react-router-dom'
 import './fonts/Triforce.ttf'
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
-// import games from './components/Data_files/games';
+import timelineData from './components/Data_files/events.json'
 
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -18,12 +18,7 @@ import Timeline from './components/Timeline';
 
 
 function App() {
-  // const timelineData = [
-  //   { id: 1, title: 'Skyward Sword', branch: 'Branch of Time' },
-  //   { id: 2, title: 'Ocarina of Time', branch: 'Branch of Time' },
-  //   { id: 3, title: 'Twilight Princess', branch: 'Branch of Twilight' },
-  //   { id: 4, title: 'Breath of the Wild', branch: 'Branch of the Wild' }
-  // ]
+
   AOS.init()
   return (
     <div className="App">
@@ -38,7 +33,7 @@ function App() {
             <Route path='/characters' element={<Characters />}></Route>
             <Route path='/npcs' element={<NPC />}></Route>
             <Route path='/games' element={<Game />}></Route>
-            <Route path='/timeline' element={<Timeline />}></Route>
+            <Route path='/timeline' element={<Timeline timelineData={timelineData}/>}></Route>
           </Routes>
         </main>
         <Footer />
