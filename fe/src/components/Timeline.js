@@ -25,7 +25,7 @@ const Timeline = ({timelineData}) => {
                     </div>
                 ))}
             </section>
-            <p data-aos='zoom-in' data-aos-delay='2000' style={{paddingTop: 150}}>Learn more about the series timeline, click <Link style={{color: 'white'}}to='https://zeldawiki.wiki/wiki/Zelda_Timeline' targer='_blank'>here</Link>.</p>
+            <p data-aos='zoom-in' data-aos-delay='2000' style={{paddingTop: 150}}>Learn more about the series timeline, click <Link style={{color: 'white'}}to='https://zeldawiki.wiki/wiki/Zelda_Timeline' target='_blank'>here</Link>.</p>
         </div>
     )
 }
