@@ -1,4 +1,4 @@
-# TLZ-TimeLine
+# The Legend of Zelda - Short Wiki
 
 ## Description
 This website is made as a small introduction web page for one of Nintendo biggest gaming series: The Legend of Zelda.
