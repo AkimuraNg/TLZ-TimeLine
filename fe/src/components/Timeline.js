@@ -10,10 +10,10 @@ const Timeline = ({timelineData}) => {
 
             <section className='timeline-era'>
                 {timelineData.map((era) => (
-                    <div key={era.era} className='era' data-aos='zoom-out' data-aos-delay='600' data-aos-duration='2000'>
+                    <div key={era.era} className='era' data-aos='zoom-in' data-aos-delay='600' data-aos-duration='2000'>
                         <h2>{era.era}</h2>
                         <p>{era.edesc}</p>
-                        <div className='timeline-item-content' data-aos='zoom-out-down' data-aos-delay='800' data-aos-duration='1500'>
+                        <div className='timeline-item-content' data-aos='zoom-in-down' data-aos-delay='800' data-aos-duration='1500'>
                             {era.events.map((event) => (
                                 <div className='card' key={event.id}>
                                     <h3>{event.title}</h3>
